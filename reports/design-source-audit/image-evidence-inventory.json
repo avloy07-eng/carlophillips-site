@@ -1,0 +1,2956 @@
+{
+  "generatedAt": "2026-08-03T00:40:33.661Z",
+  "counts": {
+    "cp-workspace": 85,
+    "recovered-gpt-architecture": 10,
+    "character-platform-figjam": 11,
+    "organizer-ai-model-comparison": 196,
+    "codex-character-architect": 1
+  },
+  "total": 303,
+  "duplicateGroups": [
+    [
+      "/Users/edv/Documents/Character Platform Architecture/assets/figjam/CHARACTER_PLATFORM_ARCHITECTURE_HAND.png",
+      "/Users/edv/Documents/Codex/2026-07-22/character-platform-architect/outputs/CHARACTER_PLATFORM_ARCHITECTURE_HAND.png"
+    ],
+    [
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/fixture-pdp-desktop.png",
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/hoodie-desktop.png"
+    ],
+    [
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/fixture-pdp-mobile.png",
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/hoodie-mobile.png"
+    ],
+    [
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-5/next15-hoodie-desktop.png",
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-6/security-hoodie-desktop.png"
+    ],
+    [
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-5/next15-hoodie-mobile.png",
+      "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-6/security-hoodie-mobile.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-1.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-1.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-1.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-1.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-1.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-1.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-2.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-2.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-2.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-2.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-3.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-3.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-3.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-3.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-3.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-3.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-4.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-4.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-4.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-4.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-4.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-4.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-5.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-5.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-5.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-5.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-5.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-5.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-6.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-6.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-10.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-10.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-13.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-13.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-14.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-14.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-15.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-15.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-16.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-16.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-17.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-17.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-18.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-18.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-19.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-19.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-20.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-20.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-21.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-21.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-22.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-22.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-23.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-23.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-24.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-24.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-6.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-6.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-7.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-7.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-8.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-8.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-9.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-9.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-10.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-10.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-11.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-11.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-12.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-12.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-13.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-13.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-14.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-14.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-15.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-15.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-16.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-16.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-17.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-17.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-18.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-18.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-19.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-19.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-20.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-20.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-21.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-21.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-22.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-22.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-23.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-23.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-24.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-24.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-25.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-25.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-26.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-26.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-7.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-7.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-8.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-8.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-9.png",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-9.png"
+    ],
+    [
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2-clean.svg",
+      "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2.svg"
+    ]
+  ],
+  "items": [
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/00_MASTER_OVERVIEW.png",
+      "bytes": 130713,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "bfb27fa19a21ee0b997097eec702fca189a156b1b2cda8d32b6eb612c17c855e"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/01_CURRENT_TRUTH_OWNERSHIP.png",
+      "bytes": 159889,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "7f2d9da3fd8a950d6e0fef2cc180503da1d15cdae75c506b263240ec1f096d87"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/02_MODULE_MAP_SOURCING.png",
+      "bytes": 118248,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "60b9d155a01a07fb541d973fcf30e5399adf03ac5b3dfe0219f56f3e9583f839"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/03_LIFECYCLE_PLACEMENT.png",
+      "bytes": 286684,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "9c972a262c44aa930e842a0c8c6453f4c3cb38c8c929410b53ea674af9f1c1d0"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/03_LIFECYCLE_PLACEMENT.svg",
+      "bytes": 4897,
+      "width": 2200,
+      "height": 1500,
+      "format": "svg",
+      "sha256": "ed4bdf01b6f9ff8c6b88573d33f5d855410d70033461ccfb71bab471f4b0b9b4"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/04_RENDERING_DEPLOYMENT.png",
+      "bytes": 126223,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "19042f34520246ce3c7d08607b0631e3726ebe6f4838163b474ebaa63682ac19"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/05_API_DATA_FLOW.png",
+      "bytes": 287808,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "1ce0fb9e7783d442adeb474e1256f8edfc19f377c776154af795bc5bb23814d7"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/05_API_DATA_FLOW.svg",
+      "bytes": 6584,
+      "width": 2200,
+      "height": 1500,
+      "format": "svg",
+      "sha256": "c3d625d598f45409051edf8238d9fbd7419a6c495b5dc781df575ccf93d676bf"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/06_PACKAGE_REUSE.png",
+      "bytes": 143545,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "acf3f55320d735cfd3d74e3450178d1190cc711fb95f2500a3aef03906a9d000"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/07_DECISIONS_RISKS_NEXT.png",
+      "bytes": 163569,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "4ad709426795c9f35cc1b15a706d90356f511991a189eac7744b6bb59dd7c35c"
+    },
+    {
+      "source": "character-platform-figjam",
+      "path": "/Users/edv/Documents/Character Platform Architecture/assets/figjam/CHARACTER_PLATFORM_ARCHITECTURE_HAND.png",
+      "bytes": 1178391,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "336f336e7365176ca9e5ab528738f807567aaacd19cf9d247bf005038998a3be"
+    },
+    {
+      "source": "codex-character-architect",
+      "path": "/Users/edv/Documents/Codex/2026-07-22/character-platform-architect/outputs/CHARACTER_PLATFORM_ARCHITECTURE_HAND.png",
+      "bytes": 1178391,
+      "width": 2200,
+      "height": 1500,
+      "format": "png",
+      "sha256": "336f336e7365176ca9e5ab528738f807567aaacd19cf9d247bf005038998a3be"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/fixtures/unverified-media/carlophillips-signature-hoodie-hood-cord-detail.jpg",
+      "bytes": 99710,
+      "width": 1100,
+      "height": 900,
+      "format": "jpeg",
+      "sha256": "6ef25edbb24ca537d06d7cf85898a65b3016ead0a5377edfc928f9e8b80cfc4d"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/fixtures/unverified-media/carlophillips-signature-hoodie-pocket-cuff-detail.jpg",
+      "bytes": 100970,
+      "width": 1200,
+      "height": 900,
+      "format": "jpeg",
+      "sha256": "0ba07b63192240b2d968692d383db1bf51219851e183e9f4cf871a4e3cde364b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/public/brand-boards/carlo-system-board.png",
+      "bytes": 225043,
+      "width": 292,
+      "height": 556,
+      "format": "png",
+      "sha256": "eb18a05ce5e7a343fa330b8b188a952d6ab9f3890c16fd8db4ee4b461aaa9a8d"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/public/brand-boards/carlophillips-drop-board.png",
+      "bytes": 204370,
+      "width": 282,
+      "height": 584,
+      "format": "png",
+      "sha256": "ce19caaed7f55eddf9eebc8d74f59b59aa76193f9b110c454b4a00bdadb3645e"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/public/brand-boards/identity-board.png",
+      "bytes": 67794,
+      "width": 836,
+      "height": 476,
+      "format": "png",
+      "sha256": "5c969355015ac9e167334433ecf9a6995013ea1dba77f48494764fb1ce8e57a4"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/public/brand-boards/love-carlo-board.png",
+      "bytes": 741998,
+      "width": 628,
+      "height": 1354,
+      "format": "png",
+      "sha256": "60bad27a1eba2be5cc358a8d309bf27a0ff86c76fdbe0bfb9ebfdebbedbe7a29"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/public/icon.svg",
+      "bytes": 231,
+      "width": 64,
+      "height": 64,
+      "format": "svg",
+      "sha256": "aa5fcfb89eb449c81f7407b1e8fa821d3e40dea466b1918b45514d392266380d"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/architecture-diagrams-contact-sheet.jpg",
+      "bytes": 192460,
+      "width": 1120,
+      "height": 990,
+      "format": "jpeg",
+      "sha256": "c7c0c6c8fc33a5883967bd5e7e7f5d63d0ec122d034a5cb84051b7e99ff99c8f"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets-contact-sheet.jpg",
+      "bytes": 333388,
+      "width": 1400,
+      "height": 1450,
+      "format": "jpeg",
+      "sha256": "4aaea79fc5ab7bec75848f4dd484288252fd432a54defa490a99d3c40441b19b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/01-0jrvhnm6_ChatGPT-Image-Mar-24-2026-08_18_07-AM.png.png",
+      "bytes": 3097029,
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "sha256": "939e56da46493cdae061b3c471f95594f085a4f196f6ddd348278b50d0d80454"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/02-0o4bgpq7_ChatGPT-Image-Mar-24-2026-08_19_40-AM.png.png",
+      "bytes": 2130662,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "31e987215d4ada79ce89db6576d3af809fa9c77298487f332a4a04558c5b0d57"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/03-1j7v5dws_ChatGPT-Image-Mar-24-2026-08_19_07-AM.png.png",
+      "bytes": 2429821,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "e13d4a8b8feb352c0c29a62e26646f022f7333679b61d3c0d4edc8520eb02226"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/04-5npumrnl_ChatGPT-Image-Mar-24-2026-08_16_14-AM.png.png",
+      "bytes": 1751735,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "1f0356dd37759673eeffd3a07941f5e6da646bfa9d7b2dfe4e838762dc544984"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/05-6fbc5c3m_ChatGPT-Image-Mar-24-2026-08_20_21-AM.png.png",
+      "bytes": 2237699,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "a36ef88bd343bdd35f43b728d626d7b69f1346a9a028abeec97652d16edbafe6"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/06-7e9h695p_ChatGPT-Image-Mar-24-2026-08_20_12-AM.png.png",
+      "bytes": 2493199,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "8e1183838b9dbe38f54b84d6d52904c553bcb683f77ea8e7a6931ffdee579b93"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/07-d1y2z1zu_ChatGPT-Image-Mar-24-2026-08_19_53-AM.png.png",
+      "bytes": 2394112,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "2f0ec56667b94de1467b4117bcd81015e5eae246f1d0b6972dfd83934fb22d28"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/08-eptmgyn8_ChatGPT-Image-Mar-24-2026-08_15_27-AM.png.png",
+      "bytes": 711143,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "cce4c8197b641fcd176c2dffc01d99fc30004c243b162d441c6d596b3d6134ec"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/09-g483a1wb_ChatGPT-Image-Mar-24-2026-08_20_02-AM.png.png",
+      "bytes": 2368968,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "c61c45d8b65c3a511bd0b392fc96716c8a2ed2ddda731dff954b414e00d9a32d"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/10-gslolpov_ChatGPT-Image-Mar-24-2026-08_18_59-AM.png.png",
+      "bytes": 2028692,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "5e0fc12b545cc69173df2a43a884c1f869a3baf768a5b14589101c22745d4ba3"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/11-jpcao6ld_ChatGPT-Image-Mar-24-2026-08_17_54-AM.png.png",
+      "bytes": 645805,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "071eb3a54dc2973f692994cbd0ffbcc75d00442f11255f99b329d389fa25d4e2"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/12-kehwslds_ChatGPT-Image-Mar-24-2026-08_20_34-AM.png.png",
+      "bytes": 2103305,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "1faa8d0d62960d62d569a9351d410cf1fd7c69bf718104049c8a5b9f05847108"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/13-o50a2gp0_ChatGPT-Image-Mar-24-2026-08_15_54-AM.png.png",
+      "bytes": 1464753,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "44c51dfb6af0ef0ee56f5b076c1dd39c80b16a1cdd33961bc0e8dd6d285f4f8b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/14-q016zor3_ChatGPT-Image-Mar-24-2026-08_20_07-AM.png.png",
+      "bytes": 2544542,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "deb440d9257690a71852f1b59d97e7cf82d50c062f6eb4979f1c2a59b988a787"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/15-qyf0shhc_ChatGPT-Image-Mar-24-2026-08_18_12-AM.png.png",
+      "bytes": 3310871,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "03a6d0b7ed5759cfcf5ab3e2382583d29c8b3054a104f68565739cefb2519536"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/16-r7v77rrz_ChatGPT-Image-Mar-24-2026-08_16_45-AM.png.png",
+      "bytes": 3005643,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "89f2c293b5db11a1d681169808d66da1ed8f5cd2223497b0dd822da18530da8a"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/17-rg1z58a1_ChatGPT-Image-Mar-24-2026-08_18_32-AM.png.png",
+      "bytes": 1717567,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "d2ad62ea8bd222f13e9f091ac729ac6993200d483c3ef29cac3cff5efc1a6106"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/18-rpx2fhxs_ChatGPT-Image-Mar-24-2026-08_17_48-AM.png.png",
+      "bytes": 2764041,
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "sha256": "ad83dce3d609959cb8818c5e69f5a70ac573f6c5a23945bd24f89ef964296594"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/19-sh50hn5b_ChatGPT-Image-Mar-24-2026-08_20_30-AM.png.png",
+      "bytes": 2286038,
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "sha256": "482a83e34b5a89492b1fa731becd48e1a3fb10e956ff43fa2d49c7830f3f42f7"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/20-uwffobyd_ChatGPT-Image-Mar-24-2026-08_16_35-AM.png.png",
+      "bytes": 2449422,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "7a0a73ff19f632449eba4ea974f8b5b9f9840b13c9980fcd70010a18b7b78a01"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/21-vkrpsexn_ChatGPT-Image-Mar-24-2026-08_19_13-AM.png.png",
+      "bytes": 2065970,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "c357dd6b82370a503ef7d21c2e7e61c4eba90df6b12a5d1ac4385726fc273424"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/22-w3hajwqk_ChatGPT-Image-Mar-24-2026-08_18_18-AM.png.png",
+      "bytes": 569994,
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "sha256": "f6a2d41a0098b713264472afe51db5089b7622e8399e53b3b17212f7ceab44f9"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/23-x9tb3b3j_ChatGPT-Image-Mar-24-2026-08_20_16-AM.png.png",
+      "bytes": 2340121,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "ee78a6cfb94fdf21a8083209512e754a8974d02ebbb0ba39fe04d9afa583bf5f"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/24-y01egjbd_ChatGPT-Image-Mar-24-2026-08_18_54-AM.png.png",
+      "bytes": 2245085,
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "sha256": "2039aba5e3746c3550cd1c33d5e66ce2abe159e36f10ce0817c0f1a57d4f0798"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/25-y1z3buor_ChatGPT-Image-Mar-24-2026-08_18_25-AM.png.png",
+      "bytes": 2789868,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "681fca144704402f32d5a814ba271f5356c1201c2e0624549b4c333a98ac7504"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/emergent-public-assets/26-zk689atj_ChatGPT-Image-Mar-24-2026-08_16_28-AM.png.png",
+      "bytes": 2594614,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "sha256": "5ef422fbdbb46a7390939ac57bfe3501d1b5ed6b46822f57420f1d39cd2d4aaa"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/design-source-audit/storefront-design-contact-sheet.jpg",
+      "bytes": 92990,
+      "width": 840,
+      "height": 990,
+      "format": "jpeg",
+      "sha256": "df3ccfa8648dc2a55b64d0bc0667bc86a477a3af16acd84be3e308c78c655bb3"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/emergent-audit/emergent-sign-in-blocker-desktop.png",
+      "bytes": 63707,
+      "width": 1440,
+      "height": 810,
+      "format": "jpeg",
+      "sha256": "f458ebc21c35169735e5b5d8b6e1aa04fa02d2bd33912fbea893ffc04d8492cd"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/emergent-audit/local-93d8b39-desktop.png",
+      "bytes": 83298,
+      "width": 1274,
+      "height": 1956,
+      "format": "jpeg",
+      "sha256": "dd7836c6573e8229b7fc25f6eb6e81ac4e1b632534e7c16130766594eb7fecb0"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/emergent-audit/local-93d8b39-mobile.png",
+      "bytes": 52235,
+      "width": 384,
+      "height": 2272,
+      "format": "jpeg",
+      "sha256": "b556e641bb828861125d46520aa83305a5072dc3bc534f79f292142cb37f6025"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/emergent-audit/vercel-production-402-desktop.png",
+      "bytes": 15061,
+      "width": 1440,
+      "height": 1000,
+      "format": "jpeg",
+      "sha256": "4b8f93923a51674affb7244ff4c70ea64f8c68b0ceff813caf0b25e1fcf49dcc"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/reports/emergent-audit/vercel-production-402-mobile.png",
+      "bytes": 2271,
+      "width": 390,
+      "height": 844,
+      "format": "jpeg",
+      "sha256": "967b95f13ad2526a8686d26648208874fdd242e3ef5c4fd5f5ae2c948f22b818"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-1/local-home-desktop.png",
+      "bytes": 220335,
+      "width": 1440,
+      "height": 3445,
+      "format": "png",
+      "sha256": "854e811f2ab3b4dffaeb792f758b39b454cdbba09f77f04a44478b8dab0aed89"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-1/local-hoodie-desktop.png",
+      "bytes": 155731,
+      "width": 1440,
+      "height": 1891,
+      "format": "png",
+      "sha256": "6c3f9efae77705cd62aa0491e823abd9dc242e140b575ad89e4ec2b7692017a2"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-1/local-hoodie-mobile.png",
+      "bytes": 118943,
+      "width": 390,
+      "height": 3005,
+      "format": "png",
+      "sha256": "b5c87958097e6aa93e7926b5892db3915506c07122e89112772611a374d204fa"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-10/storefront-release-desktop.png",
+      "bytes": 155137,
+      "width": 1440,
+      "height": 1765,
+      "format": "png",
+      "sha256": "436887ce7ccd5e933bc6edae2226b02d9a912cab90dabe860b9faa292316c3d2"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-10/storefront-release-mobile.png",
+      "bytes": 112380,
+      "width": 390,
+      "height": 2564,
+      "format": "png",
+      "sha256": "a26d224c1fd082ae42dc2f49259409ca3272184971714197147f9c88102e2bdc"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-11/collections-mobile.png",
+      "bytes": 73420,
+      "width": 390,
+      "height": 1538,
+      "format": "png",
+      "sha256": "002e85641cb58e79b0c07977b8330639ead97ea06822ca9f18a23478bf0ef21e"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-11/preview-empty-desktop.png",
+      "bytes": 77099,
+      "width": 1440,
+      "height": 1047,
+      "format": "png",
+      "sha256": "251cb7778f5dd95fcd9da4e3430d46cd877ea95c43e0a90bb91c7a9add65dd31"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-11/shop-desktop.png",
+      "bytes": 102701,
+      "width": 1440,
+      "height": 1533,
+      "format": "png",
+      "sha256": "39b6f80cefc6c5f628e951583235213e0fb4b52b647c7551cff9a8a9e7059a38"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-12/home-desktop.png",
+      "bytes": 201492,
+      "width": 1440,
+      "height": 3203,
+      "format": "png",
+      "sha256": "9ca7e919650d11d1bddd1c762184567e9ff73d58bf3b909fc558cd1028150c8d"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-12/home-mobile.png",
+      "bytes": 154197,
+      "width": 390,
+      "height": 4267,
+      "format": "png",
+      "sha256": "22bcf35434a8429d40460f73c8f2c122fe3e518c3a904e407cf10d7ad76b732c"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-12/preview-home-withheld.png",
+      "bytes": 202467,
+      "width": 1440,
+      "height": 3203,
+      "format": "png",
+      "sha256": "845471b1f67191dd2ab26469e4eaefa564f6c7e3d564df875409d6b12c44b4be"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-13/bag-mobile.png",
+      "bytes": 35861,
+      "width": 390,
+      "height": 1058,
+      "format": "png",
+      "sha256": "1115c776d8ebb0b88ecf27c89ccf53586b69df3e5fcdd457e9cfde448cfdeea9"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-13/pdp-desktop.png",
+      "bytes": 157720,
+      "width": 1440,
+      "height": 1766,
+      "format": "png",
+      "sha256": "a830c4e2a95a50b2a45fc1b00d95ed3975dc9dc03e21f5e543b107f3593c6b0b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-16/desktop-pdp.png",
+      "bytes": 74290,
+      "width": 1274,
+      "height": 1765,
+      "format": "jpeg",
+      "sha256": "e3ec660897e48d7259e69d8d6daece6853dee41fce7b53cde460797320d9c92a"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-16/mobile-pdp.png",
+      "bytes": 91664,
+      "width": 384,
+      "height": 2579,
+      "format": "jpeg",
+      "sha256": "479a6878edda835949a7f88f8e87e4a84ee24090a8fb54b7c82ae23ce234fcfc"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-17/desktop-pdp.png",
+      "bytes": 44608,
+      "width": 1434,
+      "height": 1700,
+      "format": "jpeg",
+      "sha256": "47250af4029ab2f41025c3a76f069f3c21cd8cbe896b1623e115654bdb9b52a0"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-17/mobile-pdp.png",
+      "bytes": 76690,
+      "width": 384,
+      "height": 2481,
+      "format": "jpeg",
+      "sha256": "ffacbf0b946d463fe30d257c5254a6941260748eaddf98d44b7e5c802e2b0334"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-18/desktop-pdp.png",
+      "bytes": 72216,
+      "width": 1274,
+      "height": 1700,
+      "format": "jpeg",
+      "sha256": "2f39f230e4e025c0af9cb76cb3ae1bacf6cbd92192b2f242996a99d239780e46"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-18/mobile-pdp.png",
+      "bytes": 41676,
+      "width": 390,
+      "height": 844,
+      "format": "png",
+      "sha256": "544dae3d1fc90854e469dbfde3e80aa167c58c1236b1645a542a6dc3e335d88b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/fixture-pdp-desktop.png",
+      "bytes": 153421,
+      "width": 1440,
+      "height": 1765,
+      "format": "png",
+      "sha256": "c11d4da5405c0129f4493c3fbd49eac3e2cf76135288950b679074bf1d852264"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/fixture-pdp-mobile.png",
+      "bytes": 112465,
+      "width": 390,
+      "height": 2564,
+      "format": "png",
+      "sha256": "f661d9234c52f79b4391e3415d7a30c74b1e63e0ec4a1b7d59864e6226225393"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/preview-fixture-denied.png",
+      "bytes": 45730,
+      "width": 1200,
+      "height": 800,
+      "format": "png",
+      "sha256": "cd79ef85f1000858b6b5cf46567c34eecbc6eee5a64a1e1bd6eb0e46b1588856"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-2/shopify-boundary-desktop.png",
+      "bytes": 49197,
+      "width": 1440,
+      "height": 1000,
+      "format": "png",
+      "sha256": "d80f10e656eb6b98083972fd18b5f46509abfde5951707e378774bcac1078e23"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/bag-desktop.png",
+      "bytes": 34865,
+      "width": 1440,
+      "height": 1112,
+      "format": "png",
+      "sha256": "afd74a34d6cbb0d135e45ff06f2d8e728b4bfc3f249005594a44a6b7dbaab22b"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/bag-mobile.png",
+      "bytes": 24011,
+      "width": 390,
+      "height": 1003,
+      "format": "png",
+      "sha256": "206b59c8c586f3cae82f4324ea604c0c480412080c2e892629de079d3f3c235e"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/hoodie-desktop.png",
+      "bytes": 153421,
+      "width": 1440,
+      "height": 1765,
+      "format": "png",
+      "sha256": "c11d4da5405c0129f4493c3fbd49eac3e2cf76135288950b679074bf1d852264"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-3/hoodie-mobile.png",
+      "bytes": 112465,
+      "width": 390,
+      "height": 2564,
+      "format": "png",
+      "sha256": "f661d9234c52f79b4391e3415d7a30c74b1e63e0ec4a1b7d59864e6226225393"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-4/bag-local-desktop.png",
+      "bytes": 53001,
+      "width": 1440,
+      "height": 1000,
+      "format": "png",
+      "sha256": "a1e92ed77a2a18558f2b8bf7bda1a0a334957fbd4b0e66351a69ae293b4ef1de"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-4/bag-local-mobile.png",
+      "bytes": 34665,
+      "width": 390,
+      "height": 1058,
+      "format": "png",
+      "sha256": "489e58e0349df5ff1102203dfa471e70c49942236617ca165cfcefc26972a02e"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-4/bag-preview-desktop.png",
+      "bytes": 57665,
+      "width": 1440,
+      "height": 1000,
+      "format": "png",
+      "sha256": "64f51a49b79bb068c37ef616bb14c3b6b978699010e8987ab402c47579390cfb"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-5/next15-bag-desktop.png",
+      "bytes": 54381,
+      "width": 1440,
+      "height": 1000,
+      "format": "png",
+      "sha256": "57971ca196d160c425e01d4d0ad50a5972b9125a8c7e872276b43617c57f2800"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-5/next15-hoodie-desktop.png",
+      "bytes": 155245,
+      "width": 1440,
+      "height": 1765,
+      "format": "png",
+      "sha256": "e29e8f911861db85fb44a1bc1a381a7f2ec1a7712ed6e36d376da02860117245"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-5/next15-hoodie-mobile.png",
+      "bytes": 113152,
+      "width": 390,
+      "height": 2564,
+      "format": "png",
+      "sha256": "625436854c186bda440118c0e74e2c2f405e771e78cc325044ff7c4faf610175"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-6/security-bag-desktop.png",
+      "bytes": 54412,
+      "width": 1440,
+      "height": 1000,
+      "format": "png",
+      "sha256": "4fb78355fad1ad13cd1e88351a67f9091848a71b81378b824a489b8273cb5514"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-6/security-hoodie-desktop.png",
+      "bytes": 155245,
+      "width": 1440,
+      "height": 1765,
+      "format": "png",
+      "sha256": "e29e8f911861db85fb44a1bc1a381a7f2ec1a7712ed6e36d376da02860117245"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-fitness-cycle-6/security-hoodie-mobile.png",
+      "bytes": 113152,
+      "width": 390,
+      "height": 2564,
+      "format": "png",
+      "sha256": "625436854c186bda440118c0e74e2c2f405e771e78cc325044ff7c4faf610175"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/01-historical-9e1f5c3-desktop.png",
+      "bytes": 62386,
+      "width": 1434,
+      "height": 996,
+      "format": "jpeg",
+      "sha256": "ac1fcb90ceca437dd4417dfebcbd5591dd742505563a96441f6b89f2205e572e"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/02-editorial-detour-85b62e1-desktop.png",
+      "bytes": 47243,
+      "width": 1434,
+      "height": 996,
+      "format": "jpeg",
+      "sha256": "ebbbbde504a8fcc74659142f0112a838e2ceb77478fec7893ffec2291a3fa7ab"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/03-historical-9e1f5c3-mobile.png",
+      "bytes": 49154,
+      "width": 1434,
+      "height": 5786,
+      "format": "jpeg",
+      "sha256": "f9c71fb63bc77110f2ad43dc30841ceeb01f632e88c32554b68d1f649b651c5a"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/04-editorial-detour-85b62e1-mobile.png",
+      "bytes": 88699,
+      "width": 384,
+      "height": 4237,
+      "format": "jpeg",
+      "sha256": "e8bd6bb9ddd405b01fa34b76cd5bbc82a4ac27b0bfa379907e3c178ea233e60a"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/05-corrected-storefront-desktop.png",
+      "bytes": 54771,
+      "width": 1274,
+      "height": 717,
+      "format": "jpeg",
+      "sha256": "4f1f4e6b428f797e81af9d1b1badded3cb5864d86d5ed746f18984ada8dda611"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/cp-production-visual-correction/browser/06-corrected-storefront-mobile.png",
+      "bytes": 33824,
+      "width": 384,
+      "height": 831,
+      "format": "jpeg",
+      "sha256": "401bbb0c136d328faacbbcdefb04de816ea43dd67ee41ca01da50af1ad420780"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/emergent-login/emergent-credit-balance-cropped-2026-08-02.jpg",
+      "bytes": 5753,
+      "width": 300,
+      "height": 70,
+      "format": "jpeg",
+      "sha256": "b00ffc58522ede287aec5b3e27edbd565bad0ff47b72e267fb4675e04d651821"
+    },
+    {
+      "source": "cp-workspace",
+      "path": "/Users/edv/Documents/cp/test_reports/emergent-login/emergent-signed-in-home-2026-08-02.png",
+      "bytes": 60434,
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "7eae418707d4e0f91077cc33da77325c2e6cd613e429613fd9fc105eb7452a12"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/claude-device-platform-map.png",
+      "bytes": 75523,
+      "width": 1430,
+      "height": 660,
+      "format": "png",
+      "sha256": "c1eb388601a6a7b7d840094769aa8d4594f7a11a9d6a587f6fb1a75e55ce184a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/claude-device-rendering-visual.png",
+      "bytes": 636515,
+      "width": 1724,
+      "height": 2176,
+      "format": "png",
+      "sha256": "462e413e623091bb3ebed791ef992d3915f88a7ef9f0c6b2ff62f981c4d95521"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/claude-end-to-end-architecture.png",
+      "bytes": 54968,
+      "width": 1000,
+      "height": 750,
+      "format": "png",
+      "sha256": "2e9bc9ad2c0abd5d0e467bf161d597aedafcc0a0eb29ecd77da3c84a5f0f5847"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/claude-safari-window.png",
+      "bytes": 574870,
+      "width": 1724,
+      "height": 2176,
+      "format": "png",
+      "sha256": "dea7aed3b5817f148720625c880e1aa8f48d58f3c5e7a478707d328203d192e4"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/claude-visual-expanded.png",
+      "bytes": 583928,
+      "width": 1724,
+      "height": 2176,
+      "format": "png",
+      "sha256": "fefc767347a677b8ab4a25df88d8a0c0e6edc628dcbdd238a9acd14fea423fa8"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/gemini-architecture-visual.png",
+      "bytes": 18267,
+      "width": 708,
+      "height": 600,
+      "format": "jpeg",
+      "sha256": "e1e33544138579304af80e9069fdda68dfe33d66886db6d86dee270f032458d9"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/kimi-architecture-visual.png",
+      "bytes": 5684,
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "63d8a3c45a087640c682926a44dbb50a07cb38a50bcaf625a1e08251d063760e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/kimi-fullpage.png",
+      "bytes": 51736,
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "d8a81832aa091758c3a89a8b6bec005cec5e65af20e985f27bb71fbf06412581"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/meta-ai-cross-platform-rendering.png",
+      "bytes": 1231030,
+      "width": 1920,
+      "height": 1280,
+      "format": "png",
+      "sha256": "a07c6b559cdc6e97369ae5210f92c9efdd8eec92c3bc3af826ac36e1636f5358"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/meta-ai-cross-platform-rendering.webp",
+      "bytes": 315540,
+      "width": 1920,
+      "height": 1280,
+      "format": "webp",
+      "sha256": "edf5a91e0c2c3f324dd6dc54ff180c215a9556bfb12a43b673e612932c2bd293"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/meta-ai-end-to-end-architecture.png",
+      "bytes": 1032823,
+      "width": 1920,
+      "height": 1280,
+      "format": "png",
+      "sha256": "f06a4a35bbca9f721dc11af8bd9833127f19277cdbba8ff167bbddf6ff71a73b"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/meta-ai-end-to-end-architecture.webp",
+      "bytes": 276300,
+      "width": 1920,
+      "height": 1280,
+      "format": "webp",
+      "sha256": "208eecf707c4e3bd3f424f48273fd362bfd0f15938da81de4b4218782431c9ff"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-10.png",
+      "bytes": 327978,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "fcd02c423a37dc9264a1d1cce49a5fe07cb0cd491710bea448b723f3fc6c95ea"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-11.png",
+      "bytes": 61957,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "31c1bfb5120540e2ad33f26084555e87ac4671ff901c2b5845e063e604be7c62"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-12.png",
+      "bytes": 181280,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "6362649430ec42fe93452288780b81b3490e45b9b634dbba878c3b3094ee1a20"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-13.png",
+      "bytes": 220600,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "37383ee0528e4a4a1662f65e4b29d30f9665dd02dabf73c7ad3d808a1ddfbda3"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-14.png",
+      "bytes": 272613,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "6132ad391101c120b9dc76504986691b5dbf53fe709d0c7804ea5744ca89f7db"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-15.png",
+      "bytes": 115118,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "6ea843cc2266aaa483511c547dcbf6b58313e54bef84badd1865ac056a142b84"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-16.png",
+      "bytes": 179905,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7fa281170f2e471ca4d76f50b65b43c8409e2c2d874eabe714a25e2a132c2d12"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-17.png",
+      "bytes": 493194,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "daaeadde35d6a3689d9212421278a999444ae8bf42f30276bb829583b3a37cae"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-18.png",
+      "bytes": 328770,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "dee519c5e06962575d446219db3ee9599ac4500b2e660beed6d5e60cd414d0df"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-19.png",
+      "bytes": 289302,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "60197618f0df6dd32af7ff9684fb29cc4413457a306aa98ccebd36d6f004359f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-2.png",
+      "bytes": 214418,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e1c960bc11c43f74fa4c9d769800332874dd6753ea8334ad2afc9c0dcf8d824c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-20.png",
+      "bytes": 169284,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "20dff427f682631da83f768854b00a5d3e87bf30d2474b07c157f121f03e9e24"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-21.png",
+      "bytes": 147646,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "951de2210182931ec2d5ba1c3d9d13f57a654ece2138bc5a474d5084df757d77"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-22.png",
+      "bytes": 271717,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "bcb3a534a796cb40b30aae9c8dfd9264adf8d5ae084e0aa4efdea2656073d350"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-23.png",
+      "bytes": 399719,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1751696d768514110b00695a0048f27d40ed856c36326b298db29b63f2b3c0fc"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-24.png",
+      "bytes": 220260,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "cb567478abd65cbd86e912d8fba2d702231a28a807ddcedc29c3f115d88e6746"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-6.png",
+      "bytes": 214468,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "39e38417095ec21ddf150bfc7ed6a47bbe8fd73f3d18a5d699cf4285cb1d9acd"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-7.png",
+      "bytes": 527686,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "f144b07858fb46f7c5ea6892e3f01dbdec01a61b742d434078956565f518b9c1"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-8.png",
+      "bytes": 210244,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1b86c1d72307574c39afe5f26a643adc19f63685381b14b588abd19ce143a922"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-final/page-9.png",
+      "bytes": 207187,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "25190aca53931aaa6784dc5e415ed7c92211fed7eba9b1669a51190f33cc99de"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/contact-1.png",
+      "bytes": 317421,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "a32f3b5f285ead41ae2d7fcfd10781a60042a19e2707f92dc1298bacb1452ced"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/contact-2.png",
+      "bytes": 207419,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "b66651c60a08f77767de4d33a42eabf80f8221a0fa43a39820478abfa012287c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/contact-3.png",
+      "bytes": 181394,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "1768fae4b6e820075e79c78dae5b3ea15e0f3bde6d747497bb4b39a233aaee07"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-10.png",
+      "bytes": 174135,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "d82da233c4ccc45457e0d74c9ff9468cef308043df243fc9bdee16406a6d87e7"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-11.png",
+      "bytes": 317464,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "b997c0c5187ec5768bc0d96f461da0b09130dc391a9391f0d9567a83149bfc01"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-12.png",
+      "bytes": 24125,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "fe7188aa324746be8196273c74e3991dd798369d73143649369fe8b5a7fa9bf6"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-13.png",
+      "bytes": 181356,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "780116e0469962d7ce9aa2bcfbb95ca402fb02434ac049417d9c54f26ddaa78f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-14.png",
+      "bytes": 220367,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0dbd01dd90560ab6d560167d232c70281d6be997714e7844d1fd5947d2f8c9db"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-15.png",
+      "bytes": 272733,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "77a62c9daeec1c4897aa1332b1bd461e53bef66fe000e51620f24434a9a03c23"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-16.png",
+      "bytes": 115240,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "cdf83f202e45bff2dcc547893afce40bd0796f0b73c1145556dab745f9d5242f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-17.png",
+      "bytes": 179675,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "2ed5476342cc9325831416e42c7f17f9e75be6d445a005df0e09eced0e3d008d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-18.png",
+      "bytes": 493501,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "bd0f15299405995387a76dd9e80a1a668fa9323f610079ca631440b7307b526a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-19.png",
+      "bytes": 328629,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1bca0ed6cd8cfb59372704d29a93961e12bda54bcb150b0d948892665e1612dc"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-2.png",
+      "bytes": 213824,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e71d80a02e70698be06da007471416aff2986c81d315d4c81a0ded3a99d436e4"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-20.png",
+      "bytes": 289630,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "c783520fca9a348ede8697fd7307d2cf266eb5290ed6d46b63a89a32e37d5206"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-21.png",
+      "bytes": 168949,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e73b46516faa8fb98de969bd9848a14adb8d83dd9931501c82b5f254fe3d115c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-22.png",
+      "bytes": 147482,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "88bf80bbbfdaaa6a60c352d877ded0bee221b225dd9bb06c85158558d088a384"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-23.png",
+      "bytes": 272191,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "335c9219487ca941b559775aba38936580b7f6f2a261a0337699f2cc2fabf408"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-24.png",
+      "bytes": 399531,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "46120b2c6a07508b353da86e49cf80b59d3399f7c2d65bcc79ce8355e2a978b2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-25.png",
+      "bytes": 220667,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "33727d4ffebef45840fd9dcbc48fe7726432ceebf11c247f957593c396757816"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-6.png",
+      "bytes": 198469,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "a50b794c06e54ed5448422fe3ee56b90b47a4aa40434f3af5d1ec663efeaa878"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-7.png",
+      "bytes": 522224,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "54872699d34852ccab4b583a5ec2ce1c79eae918af49c1398f51e9d64a079004"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-8.png",
+      "bytes": 591440,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "f0ba595871de9c21bb02b709bbf0e24812fac5eb07e9db20b14b411e3942ca22"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-kimi-update/page-9.png",
+      "bytes": 173875,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ed89f7e6586ff970c848fcf6ef014afc0d95641a030f5783e17dcbdedc5ca3ca"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/contact-1.png",
+      "bytes": 319237,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "a64a01ca02927b19e71957c4787a51c7ab91c7dcb8d3275f9027f91bf5894ed8"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/contact-2.png",
+      "bytes": 271443,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "b1b828071d9dd7144b74d3c0d164c3a34b54446fd00a6b51162adb22fae85386"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/contact-3.png",
+      "bytes": 234571,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "45358986b4f74b65ce7d3d2fcf4a1d2973ed7f727f249093bd55c694be8bdfda"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/contact-4.png",
+      "bytes": 120763,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "792efcb7ee7b04de785728195d2b75b1751d3d108ea6ef27bf876201e7d65e47"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-10.png",
+      "bytes": 174135,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "d82da233c4ccc45457e0d74c9ff9468cef308043df243fc9bdee16406a6d87e7"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-11.png",
+      "bytes": 233607,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "93d7040c726ca8dfb6dd24558dd0695a874c9b4984dcf7d731986e74040e83bf"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-12.png",
+      "bytes": 343701,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e418c367fd9a29faf611af4b4a029d276b006b7d25fca7ff4d6568fe2da7f26d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-13.png",
+      "bytes": 464692,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "5d461b7fd3f3eb2630ad1e7c51c7350de09b0dc08d6a94e74d83ed1c3c117686"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-14.png",
+      "bytes": 588989,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ce6423f1b2cf23d9d491083e9d96f77a8c280ca6712c2676aff9b662b318fe9f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-15.png",
+      "bytes": 705926,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "357e151e2da981e40178b0cfee57bc9c8068e2a0bc1dc127d418298329395e4a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-16.png",
+      "bytes": 181360,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "04537750bd7989f255bfd414384c4ab09505394b9610f3bc75d3830454f54546"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-17.png",
+      "bytes": 220362,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "2d2f9e2da2313028d4511939f02f6f01430aa81854a9400eabe5ad2e8bd3ff61"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-18.png",
+      "bytes": 272934,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "c8a428cc9f9cc3c8b463f0e553f47e2c39976b20c711632faf4a5101ef48c425"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-19.png",
+      "bytes": 115172,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "b245a9832dd9e890edb6f7a4da6f5fddf56c0d02bfe723ee64ef7ccaa72c600f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-2.png",
+      "bytes": 231369,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "87dd29411f500624fe6bef6ff9a0081f1d59a0ac0dd8e65a4814099befbd9984"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-20.png",
+      "bytes": 180130,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "b57e9ab7218c1c561830a8b448c799aef825e57a72071e636fb8fad3689fe968"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-21.png",
+      "bytes": 493354,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "6be4155a2db8b3a80a0ba682637e2d14fc4ce77bdac10af3102cd0a79e3dc72b"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-22.png",
+      "bytes": 328451,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "861d97f1b69c4a57a408ea16fbf90bdf67141ed7796b0a23c17b128dbd2c278c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-23.png",
+      "bytes": 289620,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "53615e841513b8b2dedd0a7aa6cf9d62d8dfaeee3024ddc2201e9f3e6ac72ffc"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-24.png",
+      "bytes": 169097,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "277b8713e5fa47a3fe7d7843ad1fa5fa04229a376f33e3a8d59afb4c735e7d02"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-25.png",
+      "bytes": 147904,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "b7f3082f65e2af2b19a498dbf9294142ab063d80fb2c223e3f21a23db9a07d5b"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-26.png",
+      "bytes": 272203,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "048c71013ec9297206b8c23e339015c690f872e3815474d6d52c8d2a6fe2a8c9"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-27.png",
+      "bytes": 399506,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "849ec26fcd3c85e6d7df56bbf628ef4088cace2a5eee1527a5d4600286f35685"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-28.png",
+      "bytes": 438890,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "79d52eb7d2e0b5ad491484a6aa97b33dc5555dbab5a8291f8062350ad560793a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-29.png",
+      "bytes": 354005,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "992f4812718020192e13ed84ce42823b8071f76092b3a9b3f6a4241adb67416d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-30.png",
+      "bytes": 24560,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e9904a4f8b996b4938a09559b1a75f2839561e0462e9c27b76adaba9427a5e3e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-31.png",
+      "bytes": 346228,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "b4359c7187692226e922f9f1fb9aed19a13292d4d9229a7d6970bfd9ff074776"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-6.png",
+      "bytes": 198469,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "a50b794c06e54ed5448422fe3ee56b90b47a4aa40434f3af5d1ec663efeaa878"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-7.png",
+      "bytes": 522224,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "54872699d34852ccab4b583a5ec2ce1c79eae918af49c1398f51e9d64a079004"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-8.png",
+      "bytes": 591440,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "f0ba595871de9c21bb02b709bbf0e24812fac5eb07e9db20b14b411e3942ca22"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-meta-claude/page-9.png",
+      "bytes": 173875,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ed89f7e6586ff970c848fcf6ef014afc0d95641a030f5783e17dcbdedc5ca3ca"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/contact-1.png",
+      "bytes": 187467,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "e0facfef5c281c55ce70c138df11853ac08feb813b184a6af69df1e5c66d5511"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/contact-2.png",
+      "bytes": 229320,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "34e277743b06c3d426189341dd943956226beeb8ed1e1ca7326024f9bd54f6b6"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/contact-3.png",
+      "bytes": 247405,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "c5b2bd03aaa8874003f19bf57c016068f7449841955afc01f5f5876304244117"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-10.png",
+      "bytes": 577310,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7a90c4177817eca953ee1d6e7b79966563b233623e3abad109e940ddcd88179a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-11.png",
+      "bytes": 162130,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1db4462671e8511b328d251736534a0e20fed07e689f45c22277899bb5fa626c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-12.png",
+      "bytes": 199618,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "203023ad7f6acb4e7501b69abd3a205eef8d71114242ab1683eea35c90a713fd"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-13.png",
+      "bytes": 242077,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "3dbadcb9fe1c1f107fc540bcaa618ebdc6e32e413e02e35a3b073b780c144a79"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-14.png",
+      "bytes": 108758,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "16d7bd96263ab7943695c1d47fd491c3e9af813ddbc49db7b1dba5ee2aade85a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-15.png",
+      "bytes": 181245,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ca02f606c66f45e6321317a17cd553b3d5df0cf0e26cb5934bd83c857a8db695"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-16.png",
+      "bytes": 220606,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1d6e6400e270b8a663c93a8988359e6c3538d370284b1c14609ff5ec2417456a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-17.png",
+      "bytes": 272611,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "848927a268e9e0141a275dcb63481a341443535c8aee6908a943a7dbee467a82"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-18.png",
+      "bytes": 115315,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "cf4722a7dd1282d782ea525e5ba96f1dfd1889e44e71c182710390756b7d9751"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-19.png",
+      "bytes": 179844,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1cb99e9db9c843fad8759dc28d5eafd634e310f43112e130f30b915a974014af"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-2.png",
+      "bytes": 214418,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e1c960bc11c43f74fa4c9d769800332874dd6753ea8334ad2afc9c0dcf8d824c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-20.png",
+      "bytes": 493661,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1de7faf2d49066fe143df4d8b6213ab53ac76befe1cc620a6cea5b2181c73288"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-21.png",
+      "bytes": 328612,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e83f1752201839b7d215c8977974c027842aa88ac8788353ee89d75d802aa987"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-22.png",
+      "bytes": 289133,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "55c0cc856f26cda8a2df1c8b32428b2338e6cbb0cc340526870f88d4f5282c44"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-23.png",
+      "bytes": 169285,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "8a6cee3055d7aed96cfc195ca6cfebf6646522ec511b747d834217103f8d0e7c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-24.png",
+      "bytes": 147819,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1de89c02c65af1fcf81322b1379b981eeba4bec4fd4e6f635979a07538c86be5"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-25.png",
+      "bytes": 272089,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "200fe99c318f3c1eec47284bfa633b985e875539e85dc4facf4fbc703b5b39a5"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-26.png",
+      "bytes": 399730,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7a44886720ea0d9a34bcaaca5737a6183fd6329ecee574254e22f8dcd1baefa4"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-27.png",
+      "bytes": 236491,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "5995b8ae0cb9839e8c7ed50adce068ca98f6af49277da25205d7d8a6da332831"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-6.png",
+      "bytes": 186504,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "a973181cd86c2fc9e11837d093b547259ae283e2aa35e3e115fc930a09a4fac9"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-7.png",
+      "bytes": 81552,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "38f957cfba489310e9a2f251e9e58a167acb89b070ff2a6183d20fc950bca503"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-8.png",
+      "bytes": 91069,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "34537b5c2856af589d1f36d86f09b0feb439a686f106335fd1ac90d78c6aae1d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v1/page-9.png",
+      "bytes": 113865,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "8d883b2376a0d84f9682df67b2ba75fcc462dfbafe694bd6e39fe8f1a0c29945"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-10.png",
+      "bytes": 577310,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7a90c4177817eca953ee1d6e7b79966563b233623e3abad109e940ddcd88179a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-11.png",
+      "bytes": 162130,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1db4462671e8511b328d251736534a0e20fed07e689f45c22277899bb5fa626c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-12.png",
+      "bytes": 199618,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "203023ad7f6acb4e7501b69abd3a205eef8d71114242ab1683eea35c90a713fd"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-13.png",
+      "bytes": 242077,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "3dbadcb9fe1c1f107fc540bcaa618ebdc6e32e413e02e35a3b073b780c144a79"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-14.png",
+      "bytes": 108758,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "16d7bd96263ab7943695c1d47fd491c3e9af813ddbc49db7b1dba5ee2aade85a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-15.png",
+      "bytes": 181245,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ca02f606c66f45e6321317a17cd553b3d5df0cf0e26cb5934bd83c857a8db695"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-16.png",
+      "bytes": 220606,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1d6e6400e270b8a663c93a8988359e6c3538d370284b1c14609ff5ec2417456a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-17.png",
+      "bytes": 272611,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "848927a268e9e0141a275dcb63481a341443535c8aee6908a943a7dbee467a82"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-18.png",
+      "bytes": 115315,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "cf4722a7dd1282d782ea525e5ba96f1dfd1889e44e71c182710390756b7d9751"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-19.png",
+      "bytes": 179844,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1cb99e9db9c843fad8759dc28d5eafd634e310f43112e130f30b915a974014af"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-2.png",
+      "bytes": 214418,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e1c960bc11c43f74fa4c9d769800332874dd6753ea8334ad2afc9c0dcf8d824c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-20.png",
+      "bytes": 493661,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1de7faf2d49066fe143df4d8b6213ab53ac76befe1cc620a6cea5b2181c73288"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-21.png",
+      "bytes": 328612,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e83f1752201839b7d215c8977974c027842aa88ac8788353ee89d75d802aa987"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-22.png",
+      "bytes": 289133,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "55c0cc856f26cda8a2df1c8b32428b2338e6cbb0cc340526870f88d4f5282c44"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-23.png",
+      "bytes": 169285,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "8a6cee3055d7aed96cfc195ca6cfebf6646522ec511b747d834217103f8d0e7c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-24.png",
+      "bytes": 147819,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1de89c02c65af1fcf81322b1379b981eeba4bec4fd4e6f635979a07538c86be5"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-25.png",
+      "bytes": 272089,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "200fe99c318f3c1eec47284bfa633b985e875539e85dc4facf4fbc703b5b39a5"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-26.png",
+      "bytes": 399730,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7a44886720ea0d9a34bcaaca5737a6183fd6329ecee574254e22f8dcd1baefa4"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-27.png",
+      "bytes": 220256,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "56ca560fab34b5007e4f3212d6262482b571973d6be0b4e01013f60ecd219e07"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-6.png",
+      "bytes": 72092,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "ab5f341de009c83f71b86d3780776d385bc3ccf5b472824c3e9c12775a19a3aa"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-7.png",
+      "bytes": 81552,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "38f957cfba489310e9a2f251e9e58a167acb89b070ff2a6183d20fc950bca503"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-8.png",
+      "bytes": 91069,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "34537b5c2856af589d1f36d86f09b0feb439a686f106335fd1ac90d78c6aae1d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v2/page-9.png",
+      "bytes": 113865,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "8d883b2376a0d84f9682df67b2ba75fcc462dfbafe694bd6e39fe8f1a0c29945"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/contact-1.png",
+      "bytes": 267135,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "5e8835c655d649a03f73bfcfbf102a6c2e19b64136ccdd1d0ef70643fb075d17"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/contact-2.png",
+      "bytes": 211575,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "67ba06e986ba3adb0f62084b0163de5139311630467932d68e3bebbc22f28ac2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/contact-3.png",
+      "bytes": 181477,
+      "width": 900,
+      "height": 1160,
+      "format": "png",
+      "sha256": "a886c1f73ffa98b7a858d6b19100c10e2488d14f20b1140b55a03b1374a32a23"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-1.png",
+      "bytes": 77665,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "260226106ba1e78acc4c02bab3e9edd7f48187bd93f1b0629ffbf4d03db795a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-10.png",
+      "bytes": 199687,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "55dd1639eb3ea465834b469b4c4f7f63771698818b646f35f17f7238b6afc788"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-11.png",
+      "bytes": 311874,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "4fdec44ce3b1a04a32d291b103c21417ae0753b48398e0f579ef9228623fa934"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-12.png",
+      "bytes": 38216,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e301486b3d40e5953ea5c463b11c0f4723a6b2530460d8d8e76be2a8fe54be6a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-13.png",
+      "bytes": 181356,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "780116e0469962d7ce9aa2bcfbb95ca402fb02434ac049417d9c54f26ddaa78f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-14.png",
+      "bytes": 220367,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0dbd01dd90560ab6d560167d232c70281d6be997714e7844d1fd5947d2f8c9db"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-15.png",
+      "bytes": 272733,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "77a62c9daeec1c4897aa1332b1bd461e53bef66fe000e51620f24434a9a03c23"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-16.png",
+      "bytes": 115240,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "cdf83f202e45bff2dcc547893afce40bd0796f0b73c1145556dab745f9d5242f"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-17.png",
+      "bytes": 179675,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "2ed5476342cc9325831416e42c7f17f9e75be6d445a005df0e09eced0e3d008d"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-18.png",
+      "bytes": 493501,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "bd0f15299405995387a76dd9e80a1a668fa9323f610079ca631440b7307b526a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-19.png",
+      "bytes": 328629,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "1bca0ed6cd8cfb59372704d29a93961e12bda54bcb150b0d948892665e1612dc"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-2.png",
+      "bytes": 214418,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e1c960bc11c43f74fa4c9d769800332874dd6753ea8334ad2afc9c0dcf8d824c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-20.png",
+      "bytes": 289630,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "c783520fca9a348ede8697fd7307d2cf266eb5290ed6d46b63a89a32e37d5206"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-21.png",
+      "bytes": 168949,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e73b46516faa8fb98de969bd9848a14adb8d83dd9931501c82b5f254fe3d115c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-22.png",
+      "bytes": 147482,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "88bf80bbbfdaaa6a60c352d877ded0bee221b225dd9bb06c85158558d088a384"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-23.png",
+      "bytes": 272191,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "335c9219487ca941b559775aba38936580b7f6f2a261a0337699f2cc2fabf408"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-24.png",
+      "bytes": 399531,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "46120b2c6a07508b353da86e49cf80b59d3399f7c2d65bcc79ce8355e2a978b2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-25.png",
+      "bytes": 220345,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "92b4edd2f21629c0ef568f1b797fa4b8aa44576756e6a4d5c696b51ef8a1a55e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-3.png",
+      "bytes": 188990,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "0b3d4f26ec833ab04fc63b09e21624ea0b533e5e7025b33048233e023ab2b2a2"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-4.png",
+      "bytes": 387570,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "7d17198670df8c8a663a92e91757c26d57fcc144b047f09069cc3c4939806015"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-5.png",
+      "bytes": 325129,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "e7c79b11c318e886278fea26151746f91a25e05542a2126c00fdea9b78543e8e"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-6.png",
+      "bytes": 214468,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "39e38417095ec21ddf150bfc7ed6a47bbe8fd73f3d18a5d699cf4285cb1d9acd"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-7.png",
+      "bytes": 70106,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "53e71702b28035c15be216206fc144b32a43524c7d74b3169b657b8154964aa3"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-8.png",
+      "bytes": 577248,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "c42a92be14a8e0a24b5607b44fa29081426228d74e2c9a257ed143a8ee20a5d6"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/rendered-v3/page-9.png",
+      "bytes": 162449,
+      "width": 1547,
+      "height": 2002,
+      "format": "png",
+      "sha256": "150e8fffff9de0759249fcd3f9c89cd7a2b93d40a01b3c504f60072d0b1b8d43"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-1-clean-preview/venice-diagram-1-clean.svg.png",
+      "bytes": 189401,
+      "width": 1600,
+      "height": 1600,
+      "format": "png",
+      "sha256": "7918319f6381d18e516cc3879d076a63fd79e9785ebdb5ce9c16944e679a8000"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-1-clean.svg",
+      "bytes": 42119,
+      "width": 2617,
+      "height": 1774,
+      "format": "svg",
+      "sha256": "07205324a4a5081b0b2ae60c1d267853b3f4b35b1b617b917f1b81ac6a925da7"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-1-preview/venice-diagram-1.svg.png",
+      "bytes": 123595,
+      "width": 1400,
+      "height": 1400,
+      "format": "png",
+      "sha256": "e6328c28ca296d09701b97695a15907e828f0200465b066e96509a3462e39fa7"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-1.svg",
+      "bytes": 42094,
+      "width": null,
+      "height": null,
+      "format": "svg",
+      "sha256": "927bcce1213ab8cc9dfd197caaf06e2cd7d4dbc413a97e1d036ce6edc4a499c5"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2-clean-preview/venice-diagram-2-clean.svg.png",
+      "bytes": 160400,
+      "width": 1600,
+      "height": 1600,
+      "format": "png",
+      "sha256": "f8e0092c181e3373aa7b59a3733eb121f9f5e2cd6c22cb387c1eec306c79090a"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2-clean.svg",
+      "bytes": 43060,
+      "width": 1561,
+      "height": 2291,
+      "format": "svg",
+      "sha256": "597b52024ea08d854a35e31ededd27179913e85b652f5e19860c31aee1ea74d9"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2-preview/venice-diagram-2.svg.png",
+      "bytes": 131583,
+      "width": 1400,
+      "height": 1400,
+      "format": "png",
+      "sha256": "2f0c4db32c18a4980d34955a2f291dc9e9f6a7c84fda4729326738f6d88d9858"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-2.svg",
+      "bytes": 43060,
+      "width": 1561,
+      "height": 2291,
+      "format": "svg",
+      "sha256": "597b52024ea08d854a35e31ededd27179913e85b652f5e19860c31aee1ea74d9"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-3-clean-preview/venice-diagram-3-clean.svg.png",
+      "bytes": 222459,
+      "width": 1600,
+      "height": 1600,
+      "format": "png",
+      "sha256": "82a4962edba290688048c080d9b4170b870d8dfcd5ee527b178696593e2caf3c"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-3-clean.svg",
+      "bytes": 56580,
+      "width": 2369,
+      "height": 2195,
+      "format": "svg",
+      "sha256": "febd6b18e72866af11162865444672213d6d74badcc4d410035e8e812f71b8e8"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-3-preview/venice-diagram-3.svg.png",
+      "bytes": 160156,
+      "width": 1400,
+      "height": 1400,
+      "format": "png",
+      "sha256": "8eef63102b3dc85d9ee22639fc2b58d4fb981bbbb48c6d9acf2e58d60593b4bf"
+    },
+    {
+      "source": "organizer-ai-model-comparison",
+      "path": "/Users/edv/Documents/Organizer/reports/2026-07-23/ai-model-comparison/venice-diagram-3.svg",
+      "bytes": 56562,
+      "width": null,
+      "height": null,
+      "format": "svg",
+      "sha256": "a5b6d3413d5acf2af08c64c34e2984a320b7fd0ccf14ce1a70b7912b7b40da2a"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/agentic-execution-loop.png",
+      "bytes": 243977,
+      "width": 1600,
+      "height": 1000,
+      "format": "png",
+      "sha256": "f315580bb80bf17b949a42b72515683b6a31288fcc4cdfe8e271b6754b87612b"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/agentic-execution-loop.svg",
+      "bytes": 3823,
+      "width": 1600,
+      "height": 1000,
+      "format": "svg",
+      "sha256": "6d9a43f5962dcd606607cd95d3d66a2378dfb7332814dfcd7d2a96510d998492"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/carlophillips-pod-to-publish-overview.png",
+      "bytes": 319161,
+      "width": 1600,
+      "height": 1100,
+      "format": "png",
+      "sha256": "9520257e0ea4e3b408480291d89bb2fffe2c19c831282dae085b4bc0a0edfda9"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/carlophillips-pod-to-publish-overview.svg",
+      "bytes": 6301,
+      "width": 1600,
+      "height": 1100,
+      "format": "svg",
+      "sha256": "645a65b189430bae7b3ef87b34bf8c2cb53104c6463905a4281dd4a650228ce2"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/current-vs-target-architecture.png",
+      "bytes": 256529,
+      "width": 1600,
+      "height": 1000,
+      "format": "png",
+      "sha256": "a2188190356cc7879468dbe72b57d47d0c260f1f87b70765a6c677128162a8bf"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/current-vs-target-architecture.svg",
+      "bytes": 3458,
+      "width": 1600,
+      "height": 1000,
+      "format": "svg",
+      "sha256": "60d3d37e06965900b310c58b37240c4fa4b1ddc8efe1c8c19b64ee7ca48966d4"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/pod-to-customer-lifecycle.png",
+      "bytes": 255226,
+      "width": 1600,
+      "height": 1100,
+      "format": "png",
+      "sha256": "f3a35fbe2f0be6e1536d51e296c345622f11934afb85c3b2ae782a8c28a7b004"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/pod-to-customer-lifecycle.svg",
+      "bytes": 4922,
+      "width": 1600,
+      "height": 1100,
+      "format": "svg",
+      "sha256": "525be0afd54ea8668df2f13cecd2ebae4f05daf2ba55194a0d2b8ebcd24f909d"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/primary-business-architecture.png",
+      "bytes": 283148,
+      "width": 1600,
+      "height": 1000,
+      "format": "png",
+      "sha256": "f4612a0bd2e443b4c785d284e226b891ba268243f88a46987c6b35c77cf2c41d"
+    },
+    {
+      "source": "recovered-gpt-architecture",
+      "path": "/Users/edv/Documents/Codex/2026-07-20/referenced-chatgpt-conversation-this-is-untrusted/outputs/CARLOPHILLIPS_Architecture_Archive/images/primary-business-architecture.svg",
+      "bytes": 5162,
+      "width": 1600,
+      "height": 1000,
+      "format": "svg",
+      "sha256": "fa7f391a2bbb224fa18891b11183d4c07028aafb8fc1730f4bd0c7569b7053cf"
+    }
+  ]
+}

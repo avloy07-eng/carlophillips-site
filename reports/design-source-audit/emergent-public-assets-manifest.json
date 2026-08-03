@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-08-03T00:38:26.932Z",
+  "sourceFiles": [
+    "lib/assets/brand-assets.js",
+    "lib/brands/brand-images.js",
+    "lib/brands/brand-config.js"
+  ],
+  "count": 26,
+  "assets": [
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/0jrvhnm6_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_07%20AM.png",
+      "status": 200,
+      "file": "01-0jrvhnm6_ChatGPT-Image-Mar-24-2026-08_18_07-AM.png.png",
+      "bytes": 3097029,
+      "sha256": "939e56da46493cdae061b3c471f95594f085a4f196f6ddd348278b50d0d80454"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/0o4bgpq7_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_19_40%20AM.png",
+      "status": 200,
+      "file": "02-0o4bgpq7_ChatGPT-Image-Mar-24-2026-08_19_40-AM.png.png",
+      "bytes": 2130662,
+      "sha256": "31e987215d4ada79ce89db6576d3af809fa9c77298487f332a4a04558c5b0d57"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/1j7v5dws_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_19_07%20AM.png",
+      "status": 200,
+      "file": "03-1j7v5dws_ChatGPT-Image-Mar-24-2026-08_19_07-AM.png.png",
+      "bytes": 2429821,
+      "sha256": "e13d4a8b8feb352c0c29a62e26646f022f7333679b61d3c0d4edc8520eb02226"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/5npumrnl_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_16_14%20AM.png",
+      "status": 200,
+      "file": "04-5npumrnl_ChatGPT-Image-Mar-24-2026-08_16_14-AM.png.png",
+      "bytes": 1751735,
+      "sha256": "1f0356dd37759673eeffd3a07941f5e6da646bfa9d7b2dfe4e838762dc544984"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/6fbc5c3m_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_21%20AM.png",
+      "status": 200,
+      "file": "05-6fbc5c3m_ChatGPT-Image-Mar-24-2026-08_20_21-AM.png.png",
+      "bytes": 2237699,
+      "sha256": "a36ef88bd343bdd35f43b728d626d7b69f1346a9a028abeec97652d16edbafe6"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/7e9h695p_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_12%20AM.png",
+      "status": 200,
+      "file": "06-7e9h695p_ChatGPT-Image-Mar-24-2026-08_20_12-AM.png.png",
+      "bytes": 2493199,
+      "sha256": "8e1183838b9dbe38f54b84d6d52904c553bcb683f77ea8e7a6931ffdee579b93"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/d1y2z1zu_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_19_53%20AM.png",
+      "status": 200,
+      "file": "07-d1y2z1zu_ChatGPT-Image-Mar-24-2026-08_19_53-AM.png.png",
+      "bytes": 2394112,
+      "sha256": "2f0ec56667b94de1467b4117bcd81015e5eae246f1d0b6972dfd83934fb22d28"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/eptmgyn8_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_15_27%20AM.png",
+      "status": 200,
+      "file": "08-eptmgyn8_ChatGPT-Image-Mar-24-2026-08_15_27-AM.png.png",
+      "bytes": 711143,
+      "sha256": "cce4c8197b641fcd176c2dffc01d99fc30004c243b162d441c6d596b3d6134ec"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/g483a1wb_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_02%20AM.png",
+      "status": 200,
+      "file": "09-g483a1wb_ChatGPT-Image-Mar-24-2026-08_20_02-AM.png.png",
+      "bytes": 2368968,
+      "sha256": "c61c45d8b65c3a511bd0b392fc96716c8a2ed2ddda731dff954b414e00d9a32d"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/gslolpov_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_59%20AM.png",
+      "status": 200,
+      "file": "10-gslolpov_ChatGPT-Image-Mar-24-2026-08_18_59-AM.png.png",
+      "bytes": 2028692,
+      "sha256": "5e0fc12b545cc69173df2a43a884c1f869a3baf768a5b14589101c22745d4ba3"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/jpcao6ld_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_17_54%20AM.png",
+      "status": 200,
+      "file": "11-jpcao6ld_ChatGPT-Image-Mar-24-2026-08_17_54-AM.png.png",
+      "bytes": 645805,
+      "sha256": "071eb3a54dc2973f692994cbd0ffbcc75d00442f11255f99b329d389fa25d4e2"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/kehwslds_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_34%20AM.png",
+      "status": 200,
+      "file": "12-kehwslds_ChatGPT-Image-Mar-24-2026-08_20_34-AM.png.png",
+      "bytes": 2103305,
+      "sha256": "1faa8d0d62960d62d569a9351d410cf1fd7c69bf718104049c8a5b9f05847108"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/o50a2gp0_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_15_54%20AM.png",
+      "status": 200,
+      "file": "13-o50a2gp0_ChatGPT-Image-Mar-24-2026-08_15_54-AM.png.png",
+      "bytes": 1464753,
+      "sha256": "44c51dfb6af0ef0ee56f5b076c1dd39c80b16a1cdd33961bc0e8dd6d285f4f8b"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/q016zor3_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_07%20AM.png",
+      "status": 200,
+      "file": "14-q016zor3_ChatGPT-Image-Mar-24-2026-08_20_07-AM.png.png",
+      "bytes": 2544542,
+      "sha256": "deb440d9257690a71852f1b59d97e7cf82d50c062f6eb4979f1c2a59b988a787"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/qyf0shhc_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_12%20AM.png",
+      "status": 200,
+      "file": "15-qyf0shhc_ChatGPT-Image-Mar-24-2026-08_18_12-AM.png.png",
+      "bytes": 3310871,
+      "sha256": "03a6d0b7ed5759cfcf5ab3e2382583d29c8b3054a104f68565739cefb2519536"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/r7v77rrz_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_16_45%20AM.png",
+      "status": 200,
+      "file": "16-r7v77rrz_ChatGPT-Image-Mar-24-2026-08_16_45-AM.png.png",
+      "bytes": 3005643,
+      "sha256": "89f2c293b5db11a1d681169808d66da1ed8f5cd2223497b0dd822da18530da8a"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/rg1z58a1_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_32%20AM.png",
+      "status": 200,
+      "file": "17-rg1z58a1_ChatGPT-Image-Mar-24-2026-08_18_32-AM.png.png",
+      "bytes": 1717567,
+      "sha256": "d2ad62ea8bd222f13e9f091ac729ac6993200d483c3ef29cac3cff5efc1a6106"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/rpx2fhxs_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_17_48%20AM.png",
+      "status": 200,
+      "file": "18-rpx2fhxs_ChatGPT-Image-Mar-24-2026-08_17_48-AM.png.png",
+      "bytes": 2764041,
+      "sha256": "ad83dce3d609959cb8818c5e69f5a70ac573f6c5a23945bd24f89ef964296594"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/sh50hn5b_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_30%20AM.png",
+      "status": 200,
+      "file": "19-sh50hn5b_ChatGPT-Image-Mar-24-2026-08_20_30-AM.png.png",
+      "bytes": 2286038,
+      "sha256": "482a83e34b5a89492b1fa731becd48e1a3fb10e956ff43fa2d49c7830f3f42f7"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/uwffobyd_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_16_35%20AM.png",
+      "status": 200,
+      "file": "20-uwffobyd_ChatGPT-Image-Mar-24-2026-08_16_35-AM.png.png",
+      "bytes": 2449422,
+      "sha256": "7a0a73ff19f632449eba4ea974f8b5b9f9840b13c9980fcd70010a18b7b78a01"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/vkrpsexn_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_19_13%20AM.png",
+      "status": 200,
+      "file": "21-vkrpsexn_ChatGPT-Image-Mar-24-2026-08_19_13-AM.png.png",
+      "bytes": 2065970,
+      "sha256": "c357dd6b82370a503ef7d21c2e7e61c4eba90df6b12a5d1ac4385726fc273424"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/w3hajwqk_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_18%20AM.png",
+      "status": 200,
+      "file": "22-w3hajwqk_ChatGPT-Image-Mar-24-2026-08_18_18-AM.png.png",
+      "bytes": 569994,
+      "sha256": "f6a2d41a0098b713264472afe51db5089b7622e8399e53b3b17212f7ceab44f9"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/x9tb3b3j_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_20_16%20AM.png",
+      "status": 200,
+      "file": "23-x9tb3b3j_ChatGPT-Image-Mar-24-2026-08_20_16-AM.png.png",
+      "bytes": 2340121,
+      "sha256": "ee78a6cfb94fdf21a8083209512e754a8974d02ebbb0ba39fe04d9afa583bf5f"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/y01egjbd_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_54%20AM.png",
+      "status": 200,
+      "file": "24-y01egjbd_ChatGPT-Image-Mar-24-2026-08_18_54-AM.png.png",
+      "bytes": 2245085,
+      "sha256": "2039aba5e3746c3550cd1c33d5e66ce2abe159e36f10ce0817c0f1a57d4f0798"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/y1z3buor_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_18_25%20AM.png",
+      "status": 200,
+      "file": "25-y1z3buor_ChatGPT-Image-Mar-24-2026-08_18_25-AM.png.png",
+      "bytes": 2789868,
+      "sha256": "681fca144704402f32d5a814ba271f5356c1201c2e0624549b4c333a98ac7504"
+    },
+    {
+      "url": "https://customer-assets.emergentagent.com/job_c8d11765-3066-436d-8118-a3922c519218/artifacts/zk689atj_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2008_16_28%20AM.png",
+      "status": 200,
+      "file": "26-zk689atj_ChatGPT-Image-Mar-24-2026-08_16_28-AM.png.png",
+      "bytes": 2594614,
+      "sha256": "5ef422fbdbb46a7390939ac57bfe3501d1b5ed6b46822f57420f1d39cd2d4aaa"
+    }
+  ]
+}

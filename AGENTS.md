@@ -39,3 +39,6 @@
 - Local development is disposable and may use a gated static fixture for review, but it must be labeled as such.
 - Vercel preview is the only staging target currently defined; it is not production and must keep draft product and checkout gates explicit.
 - Production is `www.carlophillips.com` from approved `main` changes only. Production actions remain blocked until explicitly authorized and verified.
+# Mandatory QA, validation, and visual comparison
+
+Any tasks assigned to agents must include QA testing, validation, and screenshot comparisons as mandatory parts of the task itself, even when they are not explicitly stated. Treat these checks as implied acceptance criteria.
