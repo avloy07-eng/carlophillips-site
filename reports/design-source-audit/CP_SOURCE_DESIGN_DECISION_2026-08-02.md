@@ -1,6 +1,6 @@
 # CP source, design, and launch decision
 
-Date: 2026-08-02  
+Date: 2026-08-02
 Status: decision-ready for local/GitHub/Vercel; Emergent project-source audit awaits specific visible-navigation approval.
 
 ## Bottom line

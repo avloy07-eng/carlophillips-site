@@ -1,7 +1,7 @@
 # 🔴 HUMAN INTERVENTION REQUIRED — OPEN EMERGENT CP PROJECT
 
-Opened: 2026-07-31  
-Updated: 2026-08-03  
+Opened: 2026-07-31
+Updated: 2026-08-03
 Status: CP production hosting is restored; Shopify verification and the optional Emergent comparison remain the two visible human handoffs.
 
 ## Completed

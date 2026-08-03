@@ -1,7 +1,7 @@
 # CP local, GitHub, Vercel, and Emergent comparison
 
-Date: 2026-07-31  
-Status: **Partial — Emergent source inspection is blocked at authentication.**  
+Date: 2026-07-31
+Status: **Partial — Emergent source inspection is blocked at authentication.**
 Audit boundary: read-only inspection; no push, deploy, production change, Shopify write, purchase, or Emergent generation was performed.
 
 ## Executive comparison
