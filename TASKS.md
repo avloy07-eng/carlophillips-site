@@ -12,7 +12,10 @@
 - [x] Pass focused tests, full lint, 323 tests, zero-vulnerability production audit, and optimized build.
 - [x] Capture direct 1440×1000 and 390×844 campaign, Hoodie, and category evidence with zero broken images, runtime error text, console errors, or horizontal overflow.
 - [x] Commit and push corrected candidate `ae57e29`; deploy and verify READY Vercel Preview `dpl_42uuiSoQqUyNnhJBbf35smBsud2n` at desktop and 390×844.
-- [ ] Product Owner reviews the corrected Preview and separately authorizes any merge to canonical `main` or Production deployment.
+- [x] Merge canonical PR #7 as `d874e20` and deploy READY Production `dpl_8Re2EpSmgeT5yoreyHy39edFEiuw` under the Product Owner's final-check-and-launch instruction.
+- [x] Verify apex → `www` routing plus desktop/mobile Production campaign rendering with zero errors, broken images, or overflow.
+- [ ] Product Owner explicitly authorizes copying the six existing encrypted Preview storefront variables into their new Production scope after reviewing that this makes the Hoodie and purchase boundary public.
+- [ ] Redeploy canonical `main`, prove campaign → Hoodie → categories plus PDP/purchase on `www`, stop before payment/order, and record rollback evidence.
 
 ## Current bounded delivery: complete Hoodie media ladder
 

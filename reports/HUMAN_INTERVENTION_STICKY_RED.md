@@ -1,30 +1,39 @@
-# HUMAN INTERVENTION REQUIRED — REVIEW CORRECTED PREVIEW
+# HUMAN INTERVENTION REQUIRED — AUTHORIZE PRODUCTION STOREFRONT VARIABLES
 
 Updated: 2026-08-08
 
 ## Exact action
 
-Open this exact non-production Preview manually:
+Reply in the active Codex task with this exact authorization:
 
-`https://carlophillips-site-3qgjsckgg-adityas-projects-261b17a9.vercel.app`
+`Approve copying the six existing encrypted CARLOPHILLIPS Vercel Preview variables to Production and redeploying canonical main. Do not reveal values or place an order.`
 
-Confirm that the coastal CARLOPHILLIPS runway is the landing view, the Signature Hoodie runway is the next view on scroll, and the category rail follows it. Then reply in the active Codex task with either:
+No browser screen needs to be opened. The currently live campaign can be viewed at:
 
-`Corrected Preview approved for main and Production.`
+`https://www.carlophillips.com`
 
-or list the exact change requested. Do not approve or use the earlier one-stage Preview.
+## Why this is required
 
-## Why the prior request was withdrawn
+Canonical main and the coastal campaign are already deployed. The final Production browser gate found that Vercel Production has no storefront environment variables, while Preview has six encrypted variables. Consequently Production safely withholds the Hoodie and shows the fallback panel; Preview shows the intended Hoodie runway, category state, PDP facts, and Shopify purchase boundary.
 
-Corrected Preview `dpl_42uuiSoQqUyNnhJBbf35smBsud2n` is READY and passed direct desktop/mobile campaign, Hoodie, categories, PDP, console, broken-image, and overflow checks. The previously verified Preview predates the hierarchy correction and is superseded.
+The requested authorization newly scopes these existing settings to Production:
+
+- `SHOPIFY_STORE_DOMAIN`
+- `SHOPIFY_STOREFRONT_TOKEN`
+- `NEXT_PUBLIC_COMMERCE_ENVIRONMENT`
+- `COMMERCE_DATA_MODE`
+- `NEXT_PUBLIC_SHOW_PRODUCTS`
+- `SHOPIFY_CART_UI_ENABLED`
+
+No value has been retrieved, printed, documented, or committed.
 
 ## Risk and cost
 
 - No purchase, billing change, paid plan, order, or provider action is involved.
-- Production remains unchanged.
-- The corrected candidate is deployed to a temporary Vercel Preview only.
-- Reviewing it has no charge and changes no Shopify or Production state.
+- The authorization will make the active Signature Hoodie and its Shopify purchase boundary public on Production.
+- It does not submit checkout, payment, or an order.
+- The deployment can be rolled back through the preceding Vercel Production deployment if the post-deploy gate fails.
 
 ## Resume point
 
-After the Product Owner reply, either make the requested bounded correction or—only on the exact approval phrase—merge through canonical `main`, deploy Production from approved `main`, verify `www.carlophillips.com`, and record rollback evidence.
+After the exact reply, transfer the six existing encrypted values without displaying them, redeploy canonical `main`, verify desktop/mobile landing → Hoodie → categories, verify the PDP and trusted Shopify purchase boundary, stop before payment/order, and record the new deployment plus rollback evidence.
