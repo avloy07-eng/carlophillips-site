@@ -76,7 +76,16 @@ function ProductGallery({ media, mediaReview = null, customerFacing = false }) {
 
   return (
     <div>
-      <div className="cp-product-gallery-grid cp-grid-rule">
+      <p id="product-media-instructions" className="cp-visually-hidden">
+        Verified product media. Swipe or scroll horizontally to view additional items on smaller screens.
+      </p>
+      <div
+        className="cp-product-gallery-grid cp-grid-rule cp-scrollbar-hide"
+        role="region"
+        aria-label="Verified product media"
+        aria-describedby="product-media-instructions"
+        tabIndex={0}
+      >
         {media.map((item, index) => (
           <figure key={item.id} className={index === 0 ? 'cp-card-media-featured cp-product-gallery-featured' : 'cp-card-media'}>
             <ProductMedia item={item} featured={index === 0} />

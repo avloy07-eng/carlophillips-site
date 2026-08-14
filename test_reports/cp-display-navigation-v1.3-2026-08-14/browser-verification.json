@@ -1,0 +1,626 @@
+{
+  "schemaVersion": "cp.display-navigation-v1.3-browser-qa.v1",
+  "date": "2026-08-14",
+  "method": "headless background Chrome against an explicit local non-commerce fixture",
+  "baseUrl": "http://127.0.0.1:3103",
+  "externalMutation": false,
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "status": 200,
+      "homeState": {
+        "meaningfulContent": true,
+        "frameworkOverlay": false,
+        "horizontalOverflow": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "menu": {
+        "target": {
+          "x": 48,
+          "y": 18,
+          "width": 67.234375,
+          "height": 44
+        },
+        "targetPass": true,
+        "initialContract": {
+          "controls": "site-menu-overlay",
+          "expanded": "false"
+        },
+        "categories": [
+          "hoodie",
+          "t-shirts",
+          "shirts",
+          "outerwear",
+          "bottoms",
+          "accessories"
+        ],
+        "categoryOrderPass": true,
+        "disabledCount": 5,
+        "hoodieHref": "/products/carlophillips-signature-hoodie",
+        "openState": {
+          "rootLocked": true,
+          "bodyLocked": true,
+          "backgroundInert": true,
+          "focusContained": true,
+          "overflow": false
+        },
+        "reverseTabContained": true,
+        "escapeFocusReturned": true,
+        "xFocusReturned": true,
+        "outsideFocusReturned": true,
+        "navigationCollapsed": true,
+        "responsiveCollapsed": true
+      },
+      "gallery": {
+        "bottomRailCount": 0,
+        "indexCount": 12,
+        "mediaCount": 12,
+        "productHref": "/products/carlophillips-signature-hoodie",
+        "decoded": [
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          }
+        ],
+        "initialCurrent": "true",
+        "selectedState": {
+          "counter": "03 / 12",
+          "activeIndex": "03",
+          "scrollLeft": 2556,
+          "label": "View 03Product still",
+          "focusContained": true,
+          "overflow": false
+        },
+        "touchSwipe": null,
+        "tabContained": true,
+        "focusReturned": true,
+        "handoff": {
+          "url": "http://127.0.0.1:3103/products/carlophillips-signature-hoodie",
+          "heading": "CARLOPHILLIPS Signature Hoodie",
+          "purchasingDisabled": true,
+          "layout": {
+            "viewportHeight": 1000,
+            "viewportWidth": 1440,
+            "horizontalOverflow": false,
+            "display": "grid",
+            "overflowX": "auto",
+            "scrollSnapType": "none",
+            "itemCount": 4,
+            "firstItemTop": 80,
+            "secondItemTop": 614.359375,
+            "secondItemOffsetLeft": null,
+            "galleryClientWidth": 777,
+            "galleryScrollWidth": 777,
+            "galleryHeight": 1630.828125,
+            "titleTop": 187,
+            "purchasingTop": 827
+          }
+        }
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "requestFailures": []
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "status": 200,
+      "homeState": {
+        "meaningfulContent": true,
+        "frameworkOverlay": false,
+        "horizontalOverflow": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "menu": {
+        "target": {
+          "x": 25.71875,
+          "y": 10,
+          "width": 67.234375,
+          "height": 44
+        },
+        "targetPass": true,
+        "initialContract": {
+          "controls": "site-menu-overlay",
+          "expanded": "false"
+        },
+        "categories": [
+          "hoodie",
+          "t-shirts",
+          "shirts",
+          "outerwear",
+          "bottoms",
+          "accessories"
+        ],
+        "categoryOrderPass": true,
+        "disabledCount": 5,
+        "hoodieHref": "/products/carlophillips-signature-hoodie",
+        "openState": {
+          "rootLocked": true,
+          "bodyLocked": true,
+          "backgroundInert": true,
+          "focusContained": true,
+          "overflow": false
+        },
+        "reverseTabContained": true,
+        "escapeFocusReturned": true,
+        "xFocusReturned": true,
+        "outsideFocusReturned": true,
+        "navigationCollapsed": true,
+        "responsiveCollapsed": true
+      },
+      "gallery": {
+        "bottomRailCount": 0,
+        "indexCount": 12,
+        "mediaCount": 12,
+        "productHref": "/products/carlophillips-signature-hoodie",
+        "decoded": [
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          }
+        ],
+        "initialCurrent": "true",
+        "selectedState": {
+          "counter": "03 / 12",
+          "activeIndex": "03",
+          "scrollLeft": 1409,
+          "label": "View 03Product still",
+          "focusContained": true,
+          "overflow": false
+        },
+        "touchSwipe": null,
+        "tabContained": true,
+        "focusReturned": true,
+        "handoff": {
+          "url": "http://127.0.0.1:3103/products/carlophillips-signature-hoodie",
+          "heading": "CARLOPHILLIPS Signature Hoodie",
+          "purchasingDisabled": true,
+          "layout": {
+            "viewportHeight": 1024,
+            "viewportWidth": 768,
+            "horizontalOverflow": false,
+            "display": "flex",
+            "overflowX": "auto",
+            "scrollSnapType": "x mandatory",
+            "itemCount": 4,
+            "firstItemTop": 64,
+            "secondItemTop": 64,
+            "secondItemOffsetLeft": 769,
+            "galleryClientWidth": 768,
+            "galleryScrollWidth": 3075,
+            "galleryHeight": 662.390625,
+            "titleTop": 818.390625,
+            "purchasingTop": 1362.390625
+          }
+        }
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "requestFailures": []
+    },
+    {
+      "name": "compact",
+      "width": 584,
+      "height": 486,
+      "status": 200,
+      "homeState": {
+        "meaningfulContent": true,
+        "frameworkOverlay": false,
+        "horizontalOverflow": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "menu": {
+        "target": {
+          "x": 20,
+          "y": 10,
+          "width": 44,
+          "height": 44
+        },
+        "targetPass": true,
+        "initialContract": {
+          "controls": "site-menu-overlay",
+          "expanded": "false"
+        },
+        "categories": [
+          "hoodie",
+          "t-shirts",
+          "shirts",
+          "outerwear",
+          "bottoms",
+          "accessories"
+        ],
+        "categoryOrderPass": true,
+        "disabledCount": 5,
+        "hoodieHref": "/products/carlophillips-signature-hoodie",
+        "openState": {
+          "rootLocked": true,
+          "bodyLocked": true,
+          "backgroundInert": true,
+          "focusContained": true,
+          "overflow": false
+        },
+        "reverseTabContained": true,
+        "escapeFocusReturned": true,
+        "xFocusReturned": true,
+        "outsideFocusReturned": true,
+        "navigationCollapsed": true,
+        "responsiveCollapsed": true
+      },
+      "gallery": {
+        "bottomRailCount": 0,
+        "indexCount": 12,
+        "mediaCount": 12,
+        "productHref": "/products/carlophillips-signature-hoodie",
+        "decoded": [
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          }
+        ],
+        "initialCurrent": "true",
+        "selectedState": {
+          "counter": "03 / 12",
+          "activeIndex": "03",
+          "scrollLeft": 1071,
+          "label": "View 03Product still",
+          "focusContained": true,
+          "overflow": false
+        },
+        "touchSwipe": null,
+        "tabContained": true,
+        "focusReturned": true,
+        "handoff": {
+          "url": "http://127.0.0.1:3103/products/carlophillips-signature-hoodie",
+          "heading": "CARLOPHILLIPS Signature Hoodie",
+          "purchasingDisabled": true,
+          "layout": {
+            "viewportHeight": 486,
+            "viewportWidth": 584,
+            "horizontalOverflow": false,
+            "display": "flex",
+            "overflowX": "auto",
+            "scrollSnapType": "x mandatory",
+            "itemCount": 4,
+            "firstItemTop": 64,
+            "secondItemTop": 64,
+            "secondItemOffsetLeft": 585,
+            "galleryClientWidth": 584,
+            "galleryScrollWidth": 2339,
+            "galleryHeight": 515.1875,
+            "titleTop": 671.1875,
+            "purchasingTop": 1252.453125
+          }
+        }
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "requestFailures": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "homeState": {
+        "meaningfulContent": true,
+        "frameworkOverlay": false,
+        "horizontalOverflow": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "menu": {
+        "target": {
+          "x": 20,
+          "y": 10,
+          "width": 44,
+          "height": 44
+        },
+        "targetPass": true,
+        "initialContract": {
+          "controls": "site-menu-overlay",
+          "expanded": "false"
+        },
+        "categories": [
+          "hoodie",
+          "t-shirts",
+          "shirts",
+          "outerwear",
+          "bottoms",
+          "accessories"
+        ],
+        "categoryOrderPass": true,
+        "disabledCount": 5,
+        "hoodieHref": "/products/carlophillips-signature-hoodie",
+        "openState": {
+          "rootLocked": true,
+          "bodyLocked": true,
+          "backgroundInert": true,
+          "focusContained": true,
+          "overflow": false
+        },
+        "reverseTabContained": true,
+        "escapeFocusReturned": true,
+        "xFocusReturned": true,
+        "outsideFocusReturned": true,
+        "navigationCollapsed": true,
+        "responsiveCollapsed": true
+      },
+      "gallery": {
+        "bottomRailCount": 0,
+        "indexCount": 12,
+        "mediaCount": 12,
+        "productHref": "/products/carlophillips-signature-hoodie",
+        "decoded": [
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          },
+          {
+            "type": "image",
+            "ok": true
+          }
+        ],
+        "initialCurrent": "true",
+        "selectedState": {
+          "counter": "03 / 12",
+          "activeIndex": "03",
+          "scrollLeft": 714,
+          "label": "View 03Product still",
+          "focusContained": true,
+          "overflow": false
+        },
+        "touchSwipe": {
+          "before": 0,
+          "after": 357,
+          "changed": true
+        },
+        "tabContained": true,
+        "focusReturned": true,
+        "handoff": {
+          "url": "http://127.0.0.1:3103/products/carlophillips-signature-hoodie",
+          "heading": "CARLOPHILLIPS Signature Hoodie",
+          "purchasingDisabled": true,
+          "layout": {
+            "viewportHeight": 844,
+            "viewportWidth": 390,
+            "horizontalOverflow": false,
+            "display": "flex",
+            "overflowX": "auto",
+            "scrollSnapType": "x mandatory",
+            "itemCount": 4,
+            "firstItemTop": 64,
+            "secondItemTop": 64,
+            "secondItemOffsetLeft": 391,
+            "galleryClientWidth": 390,
+            "galleryScrollWidth": 1563,
+            "galleryHeight": 375,
+            "titleTop": 546,
+            "purchasingTop": 1188.53125
+          }
+        }
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "requestFailures": []
+    }
+  ],
+  "comparisons": [
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-hero-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-menu-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-one-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-overlay-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-hero-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-menu-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-one-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-overlay-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-hero-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-menu-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-one-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-overlay-before-after.png"
+  ],
+  "summary": {
+    "viewportCount": 4,
+    "screenshots": 24,
+    "comparisons": 12,
+    "routeHealthPass": true,
+    "reducedMotionPass": true,
+    "menuPass": true,
+    "galleryPass": true,
+    "mobileTouchPass": true,
+    "responsivePdpPass": true
+  }
+}

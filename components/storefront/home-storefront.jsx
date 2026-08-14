@@ -38,7 +38,7 @@ const signatureRunwayFrameClasses = [
   'cp-runway-frame-tertiary',
 ];
 
-const categoryTabs = ['Shirts', 'Outerwear', 'Bottoms', 'Accessories'];
+const menuCategories = ['Hoodie', 'T-Shirts', 'Shirts', 'Outerwear', 'Bottoms', 'Accessories'];
 const dialogFocusableSelector = 'button:not(:disabled), a[href], [tabindex]:not([tabindex="-1"])';
 
 const campaignHero = {
@@ -113,7 +113,7 @@ export function buildHomeGalleryMedia(summary) {
   return [...uniqueMedia.values()];
 }
 
-export function ProductMediaOverlay({ media, open, onClose, title }) {
+export function ProductMediaOverlay({ media, open, onClose, productHref, title }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const dialogRef = useRef(null);
   const trackRef = useRef(null);
@@ -203,6 +203,12 @@ export function ProductMediaOverlay({ media, open, onClose, title }) {
                 Motion study
               </button>
             )}
+            {productHref && (
+              <Link href={productHref} onClick={onClose} className="cp-media-product-link">
+                Product details
+                <ArrowRight className="cp-icon cp-icon-small" aria-hidden="true" />
+              </Link>
+            )}
             <h2 id="product-media-title" className="cp-visually-hidden">{title} media viewer</h2>
           </div>
           <div className="cp-media-header-group cp-media-header-status">
@@ -252,6 +258,27 @@ export function ProductMediaOverlay({ media, open, onClose, title }) {
               </figure>
             );
           })}
+        </div>
+
+        <div className="cp-media-index">
+          <p className="cp-media-index-label" aria-live="polite">
+            <span>View {String(activeIndex + 1).padStart(2, '0')}</span>
+            <span className="cp-text-align-end">{media[activeIndex]?.label}</span>
+          </p>
+          <nav className="cp-media-index-list cp-scrollbar-hide" aria-label={`${title} media index`}>
+            {media.map((item, index) => (
+              <button
+                key={`${item.src || item.url}-index-${index}`}
+                type="button"
+                onClick={() => moveTo(index)}
+                aria-current={activeIndex === index ? 'true' : undefined}
+                aria-label={`View ${index + 1}: ${item.label}`}
+                className="cp-media-index-item"
+              >
+                {String(index + 1).padStart(2, '0')}
+              </button>
+            ))}
+          </nav>
         </div>
 
         <div className="cp-media-navigation">
@@ -311,7 +338,7 @@ function Navigation({ menuButtonRef, menuOpen, onMenu }) {
   );
 }
 
-function MenuOverlay({ onClose }) {
+export function MenuOverlay({ activeProduct, onClose }) {
   const dialogRef = useRef(null);
 
   useEffect(() => {
@@ -331,13 +358,22 @@ function MenuOverlay({ onClose }) {
       moveDialogFocus(event, dialog);
     };
 
+    const desktopQuery = window.matchMedia(designSystemRuntimeContract.media.desktopMin);
+    const handleResponsiveTransition = () => onClose();
+
     window.addEventListener('keydown', handleKeyDown);
+    desktopQuery.addEventListener('change', handleResponsiveTransition);
     return () => {
       window.cancelAnimationFrame(focusDialog);
       window.removeEventListener('keydown', handleKeyDown);
+      desktopQuery.removeEventListener('change', handleResponsiveTransition);
       releaseDocumentScroll();
     };
   }, [onClose]);
+
+  const handleOutsideInteraction = event => {
+    if (event.target === event.currentTarget) onClose();
+  };
 
   return (
     <aside
@@ -347,6 +383,7 @@ function MenuOverlay({ onClose }) {
       aria-modal="true"
       aria-labelledby="site-menu-title"
       className="cp-menu-overlay"
+      onPointerDown={handleOutsideInteraction}
     >
       <div className="cp-menu-bar">
         <span id="site-menu-title" className="cp-menu-title">CARLOPHILLIPS</span>
@@ -364,6 +401,31 @@ function MenuOverlay({ onClose }) {
         <Link onClick={onClose} href="/shop">Shop</Link>
         <Link onClick={onClose} href="/collections">Collections</Link>
         <Link onClick={onClose} href="/bag">Bag</Link>
+      </nav>
+      <nav className="cp-menu-categories" aria-label="Product categories">
+        <p className="cp-menu-categories-title">Categories</p>
+        <div className="cp-menu-categories-list">
+          {menuCategories.map(category => (
+            category === 'Hoodie' && activeProduct ? (
+              <Link
+                key={category}
+                href={activeProduct.href}
+                onClick={onClose}
+                className="cp-menu-category-item cp-menu-category-item-active"
+              >
+                {category}
+              </Link>
+            ) : (
+              <span
+                key={category}
+                aria-disabled="true"
+                className="cp-menu-category-item"
+              >
+                {category}
+              </span>
+            )
+          ))}
+        </div>
       </nav>
     </aside>
   );
@@ -524,36 +586,6 @@ function ProductRunwayHero({ galleryButtonRef, galleryCount, onOpenGallery, summ
   );
 }
 
-function CategoryRail({ summary }) {
-  const activeProduct = summary.visibleCount > 0
-    && summary.primaryProduct?.href === '/products/carlophillips-signature-hoodie'
-    ? summary.primaryProduct
-    : null;
-
-  return (
-    <nav className="cp-category-rail" aria-label="Product categories">
-      <div className="cp-scrollbar-hide cp-category-list cp-page-shell">
-        {activeProduct ? (
-          <Link
-            href={activeProduct.href}
-            aria-current="page"
-            className="cp-category-item cp-category-item-active"
-          >
-            Hoodies
-          </Link>
-        ) : (
-          <span aria-disabled="true" className="cp-category-item">Hoodies</span>
-        )}
-        {categoryTabs.map(category => (
-          <span key={category} aria-disabled="true" className="cp-category-item">
-            {category}
-          </span>
-        ))}
-      </div>
-    </nav>
-  );
-}
-
 function Footer() {
   return (
     <footer className="cp-footer">
@@ -578,6 +610,10 @@ export default function HomeStorefront({ catalogSummary }) {
   const wasMediaOpenRef = useRef(false);
   const summary = catalogSummary || fallbackSummary;
   const galleryMedia = useMemo(() => buildHomeGalleryMedia(summary), [summary]);
+  const activeProduct = summary.visibleCount > 0
+    && summary.primaryProduct?.href === '/products/carlophillips-signature-hoodie'
+    ? summary.primaryProduct
+    : null;
 
   useEffect(() => {
     if (wasMenuOpenRef.current && !menuOpen) menuButtonRef.current?.focus();
@@ -595,7 +631,7 @@ export default function HomeStorefront({ catalogSummary }) {
         <Navigation
           menuButtonRef={menuButtonRef}
           menuOpen={menuOpen}
-          onMenu={() => setMenuOpen(true)}
+          onMenu={() => setMenuOpen(current => !current)}
         />
         <CampaignHero />
         <ProductRunwayHero
@@ -604,14 +640,19 @@ export default function HomeStorefront({ catalogSummary }) {
           onOpenGallery={() => setMediaOpen(true)}
           summary={summary}
         />
-        <CategoryRail summary={summary} />
         <Footer />
       </div>
-      {menuOpen && <MenuOverlay onClose={() => setMenuOpen(false)} />}
+      {menuOpen && (
+        <MenuOverlay
+          activeProduct={activeProduct}
+          onClose={() => setMenuOpen(false)}
+        />
+      )}
       <ProductMediaOverlay
         media={galleryMedia}
         onClose={() => setMediaOpen(false)}
         open={mediaOpen}
+        productHref={activeProduct?.href}
         title={summary.primaryProduct?.title || 'Signature Hoodie'}
       />
     </main>

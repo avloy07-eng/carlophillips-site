@@ -3,6 +3,7 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { describe, expect, it } from 'vitest';
 import HomeStorefront, {
   buildHomeGalleryMedia,
+  MenuOverlay,
   ProductMediaOverlay,
 } from '../components/storefront/home-storefront.jsx';
 
@@ -91,15 +92,14 @@ describe('home release composition', () => {
     expect(unavailable).not.toContain('data-media-trigger="signature-hoodie"');
   });
 
-  it('places the brand campaign before the gated Hoodie runway and category rail', () => {
+  it('places the brand campaign before the gated Hoodie runway without a bottom category rail', () => {
     const html = renderToStaticMarkup(<HomeStorefront catalogSummary={availableSummary} />);
     const campaignIndex = html.indexOf('aria-label="CARLOPHILLIPS runway campaign"');
     const productIndex = html.indexOf('aria-label="Signature Hoodie runway"');
-    const categoriesIndex = html.indexOf('aria-label="Product categories"');
 
     expect(campaignIndex).toBeGreaterThan(-1);
     expect(productIndex).toBeGreaterThan(campaignIndex);
-    expect(categoriesIndex).toBeGreaterThan(productIndex);
+    expect(html).not.toContain('cp-category-rail');
     expect(html).toContain('href="#signature-runway"');
     expect(html).toContain('aria-label="Scroll down to discover the Signature Hoodie"');
     expect(html).toContain('id="signature-runway"');
@@ -147,11 +147,7 @@ describe('home release composition', () => {
     expect(html).not.toContain('lucide-arrow-right h-4 w-4');
     expect(html).not.toContain('Available now / Black / XS–5XL');
     expect(html).toContain('%2Fproducts%2Fsignature-hoodie%2Fcandidates%2Fmoda%2Fmodel-front-full.jpg');
-    expect(html).toContain('aria-current="page"');
-    expect(html).toContain('>Hoodies</a>');
-    expect(html).toContain('aria-disabled="true"');
-    expect(html).toContain('>Shirts</span>');
-    expect(html).toContain('>Bottoms</span>');
+    expect(html).not.toContain('cp-category-rail');
     expect(html).not.toContain('release gate');
     expect(html).not.toContain('Current collection');
     expect(html).not.toContain('Candidates</span>');
@@ -160,7 +156,7 @@ describe('home release composition', () => {
     expect(html).toContain('cp-product-media-button-corner');
   });
 
-  it('keeps runway product media and active categories behind product visibility eligibility', () => {
+  it('keeps runway product media behind product visibility eligibility', () => {
     const html = renderToStaticMarkup(<HomeStorefront catalogSummary={{
       ...availableSummary,
       status: 'denied',
@@ -172,8 +168,26 @@ describe('home release composition', () => {
     expect(html).not.toContain('/products/signature-hoodie/candidates/moda/');
     expect(html).toContain('%2Fcampaigns%2Flofoten-runway-hero.png');
     expect(html).not.toContain('Signature Series / Runway 001');
-    expect(html).not.toContain('aria-current="page"');
-    expect(html).toContain('aria-disabled="true"');
+    expect(html).not.toContain('cp-category-rail');
+  });
+
+  it('moves the full category set into the bottom of the menu without inventing inventory', () => {
+    const availableMenu = renderToStaticMarkup(
+      <MenuOverlay activeProduct={availableSummary.primaryProduct} onClose={() => {}} />
+    );
+    const unavailableMenu = renderToStaticMarkup(
+      <MenuOverlay activeProduct={null} onClose={() => {}} />
+    );
+
+    expect(availableMenu).toContain('class="cp-menu-links"');
+    expect(availableMenu).toContain('class="cp-menu-categories"');
+    expect(availableMenu.indexOf('cp-menu-categories')).toBeGreaterThan(availableMenu.indexOf('cp-menu-links'));
+    expect(availableMenu).toContain('>Hoodie</a>');
+    for (const category of ['T-Shirts', 'Shirts', 'Outerwear', 'Bottoms', 'Accessories']) {
+      expect(availableMenu).toContain(`>${category}</span>`);
+    }
+    expect(availableMenu.match(/aria-disabled="true"/g)).toHaveLength(5);
+    expect(unavailableMenu.match(/aria-disabled="true"/g)).toHaveLength(6);
   });
 
   it('builds a swipe gallery from eligible media without exposing preview studies in production', () => {
@@ -216,7 +230,13 @@ describe('home release composition', () => {
   it('renders an accessible in-page gallery with swipe and directional controls', () => {
     const media = buildHomeGalleryMedia(availableSummary);
     const openHtml = renderToStaticMarkup(
-      <ProductMediaOverlay media={media} onClose={() => {}} open title="Signature Hoodie" />
+      <ProductMediaOverlay
+        media={media}
+        onClose={() => {}}
+        open
+        productHref="/products/carlophillips-signature-hoodie"
+        title="Signature Hoodie"
+      />
     );
     const closedHtml = renderToStaticMarkup(
       <ProductMediaOverlay media={media} onClose={() => {}} open={false} title="Signature Hoodie" />
@@ -233,7 +253,12 @@ describe('home release composition', () => {
     expect(openHtml).toContain('cp-media-panel');
     expect(openHtml).toContain('aria-label="Jump to motion study"');
     expect(openHtml).toContain('>Motion study</button>');
-    expect(openHtml).not.toContain('href="/products/');
+    expect(openHtml).toContain('aria-label="Signature Hoodie media index"');
+    expect(openHtml).toContain('aria-label="View 1: Product front"');
+    expect(openHtml).toContain('aria-current="true"');
+    expect(openHtml).toContain('>View 01</span>');
+    expect(openHtml).toContain('>Product details<');
+    expect(openHtml).toContain('href="/products/carlophillips-signature-hoodie"');
     expect(closedHtml).toBe('');
   });
 });

@@ -383,6 +383,15 @@ describe('storefront design system', () => {
       'line-height': 'var(--cp-component-editorial-title-line-height)',
       'letter-spacing': 'var(--cp-component-editorial-title-letter-spacing)',
     });
+    expect(selectorDeclarations('.cp-product-gallery-grid')).toMatchObject({
+      display: 'var(--cp-component-product-gallery-display)',
+      'overflow-x': 'var(--cp-component-product-gallery-overflow-x)',
+      'scroll-snap-type': 'var(--cp-component-product-gallery-scroll-snap)',
+    });
+    expect(selectorDeclarations('.cp-product-gallery-grid > figure')).toMatchObject({
+      'min-width': 'var(--cp-component-product-gallery-item-min-width)',
+      'scroll-snap-align': 'var(--cp-component-product-gallery-item-scroll-snap)',
+    });
     expect(selectorDeclarations('.cp-editorial-copy')).toMatchObject({
       'font-size': 'var(--cp-component-editorial-copy-font-size)',
       'line-height': 'var(--cp-component-editorial-copy-line-height)',
@@ -410,6 +419,12 @@ describe('storefront design system', () => {
     expect(home).toContain("addEventListener('wheel', preventScroll, { passive: false })");
     expect(home).toContain("removeEventListener('wheel', preventScroll)");
     expect(home).toContain('moveDialogFocus(event, dialog)');
+    expect(home).toContain('handleOutsideInteraction');
+    expect(home).toContain("desktopQuery.addEventListener('change', handleResponsiveTransition)");
+    expect(home).toContain('setMenuOpen(current => !current)');
+    expect(home).toContain('cp-menu-categories');
+    expect(home).toContain('cp-media-index-list');
+    expect(home).toContain('cp-media-product-link');
     expect(styles).toContain('html.cp-scroll-locked');
     expect(home).toContain("event.key === 'Escape'");
     expect(home).toContain('menuButtonRef.current?.focus()');
@@ -421,6 +436,7 @@ describe('storefront design system', () => {
     expect(home).not.toContain('Product attributes');
     expect(home).not.toContain('Structured fleece');
     expect(home).not.toContain('11 views');
+    expect(home).not.toContain('cp-category-rail');
   });
 
   it('removes only the proven unused UI scaffold and its direct dependency set', () => {
