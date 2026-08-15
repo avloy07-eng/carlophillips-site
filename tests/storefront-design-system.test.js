@@ -342,6 +342,18 @@ describe('storefront design system', () => {
       'var(--cp-semantic-font-line-height-editorial-copy-mobile)',
       'var(--cp-semantic-font-line-height-editorial-copy-tablet)',
     ]);
+    expect(values.get('--cp-component-media-product-link-header-display')).toEqual([
+      'var(--cp-semantic-layout-display-none)',
+      'var(--cp-semantic-layout-display-inline-flex)',
+    ]);
+    expect(values.get('--cp-component-media-product-link-index-display')).toEqual([
+      'var(--cp-semantic-layout-display-inline-flex)',
+      'var(--cp-semantic-layout-display-none)',
+    ]);
+    expect(values.get('--cp-component-media-index-active-label-display')).toEqual([
+      'var(--cp-semantic-layout-display-none)',
+      'var(--cp-semantic-layout-display-inline)',
+    ]);
   });
 
   it('binds shared selectors to role tokens without recoupling unrelated labels, headings, or actions', () => {
@@ -388,6 +400,12 @@ describe('storefront design system', () => {
       'overflow-x': 'var(--cp-component-product-gallery-overflow-x)',
       'scroll-snap-type': 'var(--cp-component-product-gallery-scroll-snap)',
     });
+    expect(selectorDeclarations('.cp-media-product-link-header').display)
+      .toBe('var(--cp-component-media-product-link-header-display)');
+    expect(selectorDeclarations('.cp-media-product-link-index').display)
+      .toBe('var(--cp-component-media-product-link-index-display)');
+    expect(selectorDeclarations('.cp-media-index-active-label').display)
+      .toBe('var(--cp-component-media-index-active-label-display)');
     expect(selectorDeclarations('.cp-product-gallery-grid > figure')).toMatchObject({
       'min-width': 'var(--cp-component-product-gallery-item-min-width)',
       'scroll-snap-align': 'var(--cp-component-product-gallery-item-scroll-snap)',

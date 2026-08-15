@@ -204,7 +204,7 @@ export function ProductMediaOverlay({ media, open, onClose, productHref, title }
               </button>
             )}
             {productHref && (
-              <Link href={productHref} onClick={onClose} className="cp-media-product-link">
+              <Link href={productHref} onClick={onClose} className="cp-media-product-link cp-media-product-link-header">
                 Product details
                 <ArrowRight className="cp-icon cp-icon-small" aria-hidden="true" />
               </Link>
@@ -261,9 +261,15 @@ export function ProductMediaOverlay({ media, open, onClose, productHref, title }
         </div>
 
         <div className="cp-media-index">
-          <p className="cp-media-index-label" aria-live="polite">
-            <span>View {String(activeIndex + 1).padStart(2, '0')}</span>
-            <span className="cp-text-align-end">{media[activeIndex]?.label}</span>
+          <p className="cp-media-index-label">
+            <span aria-live="polite">View {String(activeIndex + 1).padStart(2, '0')}</span>
+            <span className="cp-media-index-active-label cp-text-align-end">{media[activeIndex]?.label}</span>
+            {productHref && (
+              <Link href={productHref} onClick={onClose} className="cp-media-product-link cp-media-product-link-index">
+                Product details
+                <ArrowRight className="cp-icon cp-icon-small" aria-hidden="true" />
+              </Link>
+            )}
           </p>
           <nav className="cp-media-index-list cp-scrollbar-hide" aria-label={`${title} media index`}>
             {media.map((item, index) => (

@@ -883,6 +883,19 @@
     color: var(--cp-semantic-color-ink);
   }
 
+  .cp-media-product-link-header {
+    display: var(--cp-component-media-product-link-header-display);
+  }
+
+  .cp-media-product-link-index {
+    display: var(--cp-component-media-product-link-index-display);
+    flex-shrink: var(--cp-semantic-layout-flex-shrink-none);
+  }
+
+  .cp-media-index-active-label {
+    display: var(--cp-component-media-index-active-label-display);
+  }
+
   .cp-media-track {
     display: var(--cp-semantic-layout-display-flex);
     width: var(--cp-semantic-size-full);

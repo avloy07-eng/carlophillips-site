@@ -63,6 +63,48 @@
         "indexCount": 12,
         "mediaCount": 12,
         "productHref": "/products/carlophillips-signature-hoodie",
+        "viewerChrome": {
+          "rects": {
+            "motion": {
+              "x": 325.125,
+              "y": 75.59375,
+              "width": 121.5,
+              "height": 33.796875,
+              "right": 446.625,
+              "bottom": 109.390625
+            },
+            "product": {
+              "x": 462.625,
+              "y": 70.5,
+              "width": 147.3125,
+              "height": 44,
+              "right": 609.9375,
+              "bottom": 114.5
+            },
+            "counter": {
+              "x": 1196.046875,
+              "y": 85.75,
+              "width": 46.953125,
+              "height": 13.5,
+              "right": 1243,
+              "bottom": 99.25
+            },
+            "close": {
+              "x": 1263,
+              "y": 68.5,
+              "width": 48,
+              "height": 48,
+              "right": 1311,
+              "bottom": 116.5
+            }
+          },
+          "collision": false,
+          "withinPanel": true,
+          "headerOverflow": false,
+          "productPlacement": "header",
+          "productSingleLine": true,
+          "visibleProductLinkCount": 1
+        },
         "decoded": [
           {
             "type": "image",
@@ -118,7 +160,7 @@
           "counter": "03 / 12",
           "activeIndex": "03",
           "scrollLeft": 2556,
-          "label": "View 03Product still",
+          "label": "View 03Product stillProduct details",
           "focusContained": true,
           "overflow": false
         },
@@ -142,15 +184,94 @@
             "secondItemOffsetLeft": null,
             "galleryClientWidth": 777,
             "galleryScrollWidth": 777,
-            "galleryHeight": 1630.828125,
+            "galleryHeight": 1615.828125,
             "titleTop": 187,
             "purchasingTop": 827
           }
         }
       },
+      "routes": [
+        {
+          "name": "home-regression",
+          "path": "/",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "shop",
+          "path": "/shop",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        },
+        {
+          "name": "pdp",
+          "path": "/products/carlophillips-signature-hoodie",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 1,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "bag",
+          "path": "/bag",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        }
+      ],
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [],
+      "postRequests": []
     },
     {
       "name": "tablet",
@@ -210,6 +331,48 @@
         "indexCount": 12,
         "mediaCount": 12,
         "productHref": "/products/carlophillips-signature-hoodie",
+        "viewerChrome": {
+          "rects": {
+            "motion": {
+              "x": 253.5625,
+              "y": 79.59375,
+              "width": 121.5,
+              "height": 33.796875,
+              "right": 375.0625,
+              "bottom": 113.390625
+            },
+            "product": {
+              "x": 391.0625,
+              "y": 74.5,
+              "width": 147.3125,
+              "height": 44,
+              "right": 538.375,
+              "bottom": 118.5
+            },
+            "counter": {
+              "x": 595.59375,
+              "y": 89.75,
+              "width": 46.953125,
+              "height": 13.5,
+              "right": 642.546875,
+              "bottom": 103.25
+            },
+            "close": {
+              "x": 662.546875,
+              "y": 72.5,
+              "width": 48,
+              "height": 48,
+              "right": 710.546875,
+              "bottom": 120.5
+            }
+          },
+          "collision": false,
+          "withinPanel": true,
+          "headerOverflow": false,
+          "productPlacement": "header",
+          "productSingleLine": true,
+          "visibleProductLinkCount": 1
+        },
         "decoded": [
           {
             "type": "image",
@@ -265,7 +428,7 @@
           "counter": "03 / 12",
           "activeIndex": "03",
           "scrollLeft": 1409,
-          "label": "View 03Product still",
+          "label": "View 03Product stillProduct details",
           "focusContained": true,
           "overflow": false
         },
@@ -295,9 +458,88 @@
           }
         }
       },
+      "routes": [
+        {
+          "name": "home-regression",
+          "path": "/",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "shop",
+          "path": "/shop",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        },
+        {
+          "name": "pdp",
+          "path": "/products/carlophillips-signature-hoodie",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 1,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "bag",
+          "path": "/bag",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        }
+      ],
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [],
+      "postRequests": []
     },
     {
       "name": "compact",
@@ -357,6 +599,48 @@
         "indexCount": 12,
         "mediaCount": 12,
         "productHref": "/products/carlophillips-signature-hoodie",
+        "viewerChrome": {
+          "rects": {
+            "motion": {
+              "x": 44.359375,
+              "y": 38.953125,
+              "width": 121.5,
+              "height": 33.796875,
+              "right": 165.859375,
+              "bottom": 72.75
+            },
+            "product": {
+              "x": 392.3125,
+              "y": 280.625,
+              "width": 147.3125,
+              "height": 44,
+              "right": 539.625,
+              "bottom": 324.625
+            },
+            "counter": {
+              "x": 424.671875,
+              "y": 49.109375,
+              "width": 46.953125,
+              "height": 13.5,
+              "right": 471.625,
+              "bottom": 62.609375
+            },
+            "close": {
+              "x": 491.625,
+              "y": 31.859375,
+              "width": 48,
+              "height": 48,
+              "right": 539.625,
+              "bottom": 79.859375
+            }
+          },
+          "collision": false,
+          "withinPanel": true,
+          "headerOverflow": false,
+          "productPlacement": "index",
+          "productSingleLine": true,
+          "visibleProductLinkCount": 1
+        },
         "decoded": [
           {
             "type": "image",
@@ -412,7 +696,7 @@
           "counter": "03 / 12",
           "activeIndex": "03",
           "scrollLeft": 1071,
-          "label": "View 03Product still",
+          "label": "View 03Product stillProduct details",
           "focusContained": true,
           "overflow": false
         },
@@ -442,9 +726,88 @@
           }
         }
       },
+      "routes": [
+        {
+          "name": "home-regression",
+          "path": "/",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "shop",
+          "path": "/shop",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        },
+        {
+          "name": "pdp",
+          "path": "/products/carlophillips-signature-hoodie",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 1,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "bag",
+          "path": "/bag",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        }
+      ],
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [],
+      "postRequests": []
     },
     {
       "name": "mobile",
@@ -504,6 +867,48 @@
         "indexCount": 12,
         "mediaCount": 12,
         "productHref": "/products/carlophillips-signature-hoodie",
+        "viewerChrome": {
+          "rects": {
+            "motion": {
+              "x": 36.59375,
+              "y": 31.1875,
+              "width": 121.5,
+              "height": 33.796875,
+              "right": 158.09375,
+              "bottom": 64.984375
+            },
+            "product": {
+              "x": 206.078125,
+              "y": 646.390625,
+              "width": 147.3125,
+              "height": 44,
+              "right": 353.390625,
+              "bottom": 690.390625
+            },
+            "counter": {
+              "x": 238.4375,
+              "y": 41.34375,
+              "width": 46.953125,
+              "height": 13.5,
+              "right": 285.390625,
+              "bottom": 54.84375
+            },
+            "close": {
+              "x": 305.390625,
+              "y": 24.09375,
+              "width": 48,
+              "height": 48,
+              "right": 353.390625,
+              "bottom": 72.09375
+            }
+          },
+          "collision": false,
+          "withinPanel": true,
+          "headerOverflow": false,
+          "productPlacement": "index",
+          "productSingleLine": true,
+          "visibleProductLinkCount": 1
+        },
         "decoded": [
           {
             "type": "image",
@@ -559,13 +964,13 @@
           "counter": "03 / 12",
           "activeIndex": "03",
           "scrollLeft": 714,
-          "label": "View 03Product still",
+          "label": "View 03Product stillProduct details",
           "focusContained": true,
           "overflow": false
         },
         "touchSwipe": {
           "before": 0,
-          "after": 357,
+          "after": 348,
           "changed": true
         },
         "tabContained": true,
@@ -593,9 +998,88 @@
           }
         }
       },
+      "routes": [
+        {
+          "name": "home-regression",
+          "path": "/",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "shop",
+          "path": "/shop",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        },
+        {
+          "name": "pdp",
+          "path": "/products/carlophillips-signature-hoodie",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 1,
+          "mainBackground": "rgb(0, 0, 0)"
+        },
+        {
+          "name": "bag",
+          "path": "/bag",
+          "status": 200,
+          "meaningfulContent": true,
+          "frameworkOverlay": false,
+          "horizontalOverflow": false,
+          "brokenImages": 0,
+          "brokenVideos": 0,
+          "providerLeak": false,
+          "formCount": 0,
+          "enabledSubmitCount": 0,
+          "enabledSelectCount": 0,
+          "checkoutLinkCount": 0,
+          "continueToCheckoutCount": 0,
+          "selectionDisabledCount": 0,
+          "purchasingDisabledCount": 0,
+          "mainBackground": "rgb(2, 2, 2)"
+        }
+      ],
       "consoleErrors": [],
       "pageErrors": [],
-      "requestFailures": []
+      "requestFailures": [],
+      "postRequests": []
     }
   ],
   "comparisons": [
@@ -603,24 +1087,35 @@
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-menu-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-one-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-home-overlay-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-shop-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-pdp-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/desktop-bag-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-hero-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-menu-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-one-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-home-overlay-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-shop-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-pdp-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/compact-bag-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-hero-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-menu-before-after.png",
     "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-one-before-after.png",
-    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-overlay-before-after.png"
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-home-overlay-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-shop-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-pdp-before-after.png",
+    "test_reports/cp-display-navigation-v1.3-2026-08-14/comparisons/mobile-bag-before-after.png"
   ],
   "summary": {
     "viewportCount": 4,
-    "screenshots": 24,
-    "comparisons": 12,
+    "screenshots": 36,
+    "comparisons": 21,
     "routeHealthPass": true,
     "reducedMotionPass": true,
     "menuPass": true,
     "galleryPass": true,
     "mobileTouchPass": true,
-    "responsivePdpPass": true
+    "responsivePdpPass": true,
+    "regressionRoutesPass": true,
+    "checkoutFailClosedPass": true
   }
 }

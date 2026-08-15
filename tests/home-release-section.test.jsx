@@ -258,6 +258,9 @@ describe('home release composition', () => {
     expect(openHtml).toContain('aria-current="true"');
     expect(openHtml).toContain('>View 01</span>');
     expect(openHtml).toContain('>Product details<');
+    expect(openHtml).toContain('cp-media-product-link-header');
+    expect(openHtml).toContain('cp-media-product-link-index');
+    expect(openHtml).toContain('cp-media-index-active-label');
     expect(openHtml).toContain('href="/products/carlophillips-signature-hoodie"');
     expect(closedHtml).toBe('');
   });
